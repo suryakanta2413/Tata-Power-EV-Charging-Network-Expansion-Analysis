@@ -1,0 +1,1213 @@
+Vehicle_ID,EV_Type,State,City,Registration_Date,Daily_KM_Travelled,Battery_Capacity_kWh,Charging_Frequency_Per_Week
+VH-00753,4W-Electric,Maharashtra,Thane,2021-09-28,47.2,38.7,5.0
+VH-00886,2W-Electric,Punjab,Ludhiana,2023-03-06,38.4,2.5,6.0
+VH-01069,3W-Electric,Haryana,Gurugram,2024-01-07,24.5,7.4,7.0
+VH-00858,4W-Electric,Delhi,New Delhi,2022-06-19,,39.9,2.0
+VH-00399,2W-Electric,Gujarat,Vadodara,2021-04-08,29.2,2.1,3.0
+VH-01038,3W-Electric,Andhra Pradesh,Guntur,2024-01-14,46.4,6.1,2.0
+VH-00954,2W-Electric,Tamil Nadu,Chennai,2022-09-03,53.7,2.1,4.0
+VH-00048,2W-Electric,Maharashtra,Pune,2022-04-14,46.5,2.2,2.0
+VH-00674,E-Bus,Uttar Pradesh,Lucknow,2024-11-27,38.4,167.6,5.0
+VH-00871,E-Bus,Punjab,Jalandhar,2023-09-29,59.9,187.8,7.0
+VH-00927,3W-Electric,Madhya Pradesh,Gwalior,2021-02-22,91.2,8.5,7.0
+VH-00978,2W-Electric,Karnataka,Mysuru,2022-08-19,48.0,2.6,4.0
+VH-00487,E-Cargo,Uttar Pradesh,Kanpur,2023-11-22,59.8,54.4,3.0
+VH-00708,4W-Electric,Uttar Pradesh,Agra,2021-06-28,70.6,45.5,5.0
+VH-00847,E-Cargo,Kerala,Kozhikode,2022-03-29,79.0,68.2,7.0
+VH-01039,2W-Electric,Rajasthan,Kota,2024-06-15,26.7,2.6,7.0
+VH-00861,E-Bus,Kerala,Kollam,2024-12-13,62.9,208.8,2.0
+VH-00928,4W-Electric,Uttar Pradesh,Agra,2023-05-08,62.0,37.0,5.0
+VH-00857,E-Bus,Gujarat,Surat,2021-05-31,59.1,170.7,2.0
+VH-01134,E-Cargo,Telangana,Khammam,2024-07-29,,50.4,2.0
+VH-00437,E-Bus,Punjab,Chandigarh,2022-03-16,77.6,235.5,6.0
+VH-00138,E-Cargo,Andhra Pradesh,Visakhapatnam,2023-02-19,88.2,52.2,5.0
+VH-00641,3W-Electric,Kerala,Kollam,2024-11-04,10.0,7.9,5.0
+VH-00951,2W-Electric,Gujarat,Ahmedabad,2024-07-07,20.9,2.1,7.0
+VH-00274,3W-Electric,Rajasthan,Jaipur,2023-08-24,73.2,8.0,2.0
+VH-00415,2W-Electric,Maharashtra,Nashik,2022-10-09,56.9,2.7,4.0
+VH-00103,3W-Electric,Karnataka,Hubli,2024-04-04,35.7,6.6,4.0
+VH-00392,3W-Electric,West Bengal,Durgapur,2023-03-02,26.7,7.2,2.0
+VH-01133,4W-Electric,Maharashtra,Nagpur,2022-01-04,37.8,43.3,6.0
+VH-00609,2W-Electric,Telangana,Warangal,2021-07-17,57.8,3.0,6.0
+VH-00021,3W-Electric,Rajasthan,Jaipur,2021-03-07,110.6,6.9,4.0
+VH-00200,E-Cargo,Delhi,Faridabad,2024-09-16,38.1,68.8,3.0
+VH-00100,3W-Electric,Gujarat,Ahmedabad,2023-03-28,50.2,7.9,4.0
+VH-00271,2W-Electric,Karnataka,Mangaluru,2022-06-26,33.8,2.0,6.0
+VH-00883,3W-Electric,Gujarat,Surat,2021-03-29,49.1,8.6,5.0
+VH-00841,E-Bus,Andhra Pradesh,Tirupati,2024-08-22,,186.3,4.0
+VH-01122,E-Cargo,Telangana,Warangal,2023-04-12,29.2,63.0,4.0
+VH-00908,2W-Electric,West Bengal,Asansol,2024-10-27,65.7,2.4,2.0
+VH-00469,3W-Electric,Uttar Pradesh,Kanpur,2021-07-18,47.5,8.7,2.0
+VH-00670,2W-Electric,Tamil Nadu,Madurai,2023-09-16,,2.9,2.0
+VH-00693,E-Cargo,Kerala,Thiruvananthapuram,2023-02-25,75.6,53.6,5.0
+VH-00489,E-Cargo,Kerala,Kozhikode,2022-11-20,63.1,68.4,6.0
+VH-00438,E-Bus,Delhi,Faridabad,2022-02-14,53.4,227.6,2.0
+VH-00971,4W-Electric,Andhra Pradesh,Tirupati,2021-11-25,40.3,41.3,2.0
+VH-00491,E-Bus,Kerala,Kozhikode,2021-02-04,75.2,215.8,4.0
+VH-00996,3W-Electric,Madhya Pradesh,Jabalpur,2024-02-18,51.4,7.2,6.0
+VH-01054,4W-Electric,Rajasthan,Jaipur,2023-12-13,25.3,37.4,3.0
+VH-00412,E-Bus,Tamil Nadu,Vellore,2024-11-25,39.0,188.5,5.0
+VH-00506,4W-Electric,Gujarat,Vadodara,2024-12-14,63.2,33.1,3.0
+VH-00269,2W-Electric,Andhra Pradesh,Guntur,2023-08-18,38.8,2.5,2.0
+VH-01060,4W-Electric,Karnataka,Shivamogga,2023-07-02,37.7,47.5,3.0
+VH-00855,4W-Electric,Uttar Pradesh,Varanasi,2024-01-24,51.2,35.0,5.0
+VH-01178,E-Cargo,Andhra Pradesh,Kurnool,2022-12-14,40.2,60.4,4.0
+VH-00362,3W-Electric,Tamil Nadu,Chennai,2024-12-20,51.7,9.0,5.0
+VH-01084,2W-Electric,Tamil Nadu,Chennai,2021-01-11,48.3,2.8,6.0
+VH-00062,E-Bus,Maharashtra,Nagpur,2021-01-05,21.5,184.1,5.0
+VH-00231,E-Bus,Uttar Pradesh,Kanpur,2024-01-09,,201.6,5.0
+VH-00660,E-Cargo,Kerala,Thrissur,2023-04-01,66.0,60.6,6.0
+VH-00356,2W-Electric,Haryana,Panipat,2024-08-13,52.0,2.2,2.0
+VH-00328,E-Bus,Karnataka,Hubli,2024-09-17,,184.9,
+VH-00183,3W-Electric,Andhra Pradesh,Kurnool,2022-07-16,48.8,7.3,2.0
+VH-00513,4W-Electric,Haryana,Yamunanagar,2024-02-26,52.4,32.4,7.0
+VH-00526,E-Cargo,Uttar Pradesh,Allahabad,2023-12-10,50.9,53.5,5.0
+VH-00983,E-Bus,Tamil Nadu,Chennai,2023-03-31,49.9,168.3,5.0
+VH-00912,E-Bus,Delhi,New Delhi,2021-04-12,46.4,232.5,3.0
+VH-00474,E-Cargo,Karnataka,Mangaluru,2023-07-26,73.8,61.9,3.0
+VH-00695,3W-Electric,Tamil Nadu,Tiruchirappalli,2023-09-30,31.5,7.6,4.0
+VH-01115,3W-Electric,Punjab,Jalandhar,2021-05-09,49.4,7.2,4.0
+VH-00227,E-Cargo,Telangana,Warangal,2023-11-07,27.6,70.9,7.0
+VH-01064,E-Cargo,Haryana,Panipat,2023-11-08,101.7,57.6,5.0
+VH-00621,2W-Electric,Tamil Nadu,Madurai,2022-03-01,46.0,2.9,6.0
+VH-00364,4W-Electric,Rajasthan,Udaipur,2023-03-05,58.0,44.0,5.0
+VH-00069,3W-Electric,Karnataka,Shivamogga,2023-04-07,39.5,8.0,2.0
+VH-00525,2W-Electric,Kerala,Kollam,2022-11-18,73.0,3.0,4.0
+VH-00882,E-Bus,Tamil Nadu,Chennai,2021-12-21,108.3,169.2,3.0
+VH-00452,2W-Electric,Haryana,Gurugram,2023-11-28,61.3,3.0,3.0
+VH-00466,4W-Electric,Tamil Nadu,Madurai,2022-12-09,43.0,35.0,5.0
+VH-00350,E-Cargo,Uttar Pradesh,Varanasi,2024-04-01,43.3,48.1,5.0
+VH-00240,4W-Electric,Punjab,Chandigarh,2024-06-30,11.6,44.5,7.0
+VH-00716,3W-Electric,Maharashtra,Aurangabad,2024-12-07,69.2,6.9,3.0
+VH-00530,4W-Electric,Andhra Pradesh,Guntur,2024-03-08,54.4,35.0,7.0
+VH-00236,E-Bus,Telangana,Warangal,2021-03-17,72.6,177.0,3.0
+VH-00249,3W-Electric,Punjab,Amritsar,2021-12-25,33.0,6.4,2.0
+VH-00915,2W-Electric,Telangana,Khammam,2024-10-29,51.0,2.7,2.0
+VH-00320,2W-Electric,Haryana,Panipat,2022-01-05,55.3,2.9,
+VH-00016,4W-Electric,Uttar Pradesh,Allahabad,2021-11-30,73.9,33.6,4.0
+VH-00787,2W-Electric,Rajasthan,Bikaner,2022-11-18,84.1,2.8,
+VH-01065,4W-Electric,Uttar Pradesh,Lucknow,2024-08-27,60.8,47.9,3.0
+VH-00497,E-Cargo,Gujarat,Ahmedabad,2024-12-05,71.4,48.2,2.0
+VH-01159,E-Bus,West Bengal,Siliguri,2022-06-04,86.0,211.6,4.0
+VH-01144,2W-Electric,Maharashtra,Pune,2023-09-15,76.2,2.1,7.0
+VH-00472,3W-Electric,Rajasthan,Jodhpur,2023-10-18,47.5,6.7,6.0
+VH-00068,3W-Electric,Maharashtra,Pune,2021-05-21,54.9,6.7,6.0
+VH-00072,4W-Electric,Kerala,Kollam,2022-06-19,82.8,40.6,3.0
+VH-00371,E-Cargo,Karnataka,Hubli,2023-02-11,31.4,57.6,7.0
+VH-00850,2W-Electric,Tamil Nadu,Vellore,2024-12-22,31.5,2.0,7.0
+VH-01123,E-Bus,Haryana,Panipat,2023-09-15,32.9,165.7,6.0
+VH-00336,E-Cargo,Tamil Nadu,Salem,2024-12-12,60.6,56.3,3.0
+VH-00815,3W-Electric,Telangana,Nizamabad,2022-12-26,71.6,6.0,3.0
+VH-00084,E-Cargo,Madhya Pradesh,Gwalior,2023-09-28,105.8,53.8,4.0
+VH-00400,E-Bus,Telangana,Khammam,2021-05-09,57.0,181.8,2.0
+VH-01107,E-Cargo,Delhi,Gurugram,2023-08-25,760.7132062013,49.7,7.0
+VH-00306,E-Cargo,Punjab,Ludhiana,2022-03-17,103.7,57.9,5.0
+VH-00923,E-Bus,Madhya Pradesh,Bhopal,2021-05-11,90.9,204.8,4.0
+VH-00059,2W-Electric,Punjab,Patiala,2021-04-14,36.1,2.5,7.0
+VH-00757,E-Bus,Maharashtra,Mumbai,2023-11-04,35.1,161.0,4.0
+VH-00406,E-Cargo,West Bengal,Siliguri,2023-11-06,86.4,64.0,6.0
+VH-00616,2W-Electric,Maharashtra,Nagpur,2023-10-21,42.0,,5.0
+VH-00634,2W-Electric,Rajasthan,Jaipur,2021-01-11,49.8,2.1,4.0
+VH-00864,E-Cargo,Telangana,Khammam,2022-06-28,37.2,53.9,7.0
+VH-00881,E-Cargo,Kerala,Kollam,2024-10-19,75.4,68.4,6.0
+VH-00673,E-Cargo,Punjab,Amritsar,2023-09-17,91.4,67.7,4.0
+VH-00233,3W-Electric,Uttar Pradesh,Agra,2024-11-29,75.5,7.7,3.0
+VH-00287,E-Cargo,Gujarat,Bhavnagar,2021-02-13,4.9,49.9,2.0
+VH-00553,3W-Electric,Delhi,New Delhi,2024-03-30,51.4,6.1,2.0
+VH-00319,2W-Electric,Kerala,Kollam,2024-06-01,23.4,2.7,7.0
+VH-00071,E-Bus,Kerala,Kochi,2024-09-08,83.1,189.4,6.0
+VH-00008,4W-Electric,Telangana,Karimnagar,2021-11-15,74.0,36.7,3.0
+VH-01116,2W-Electric,Rajasthan,Jodhpur,2024-10-01,67.7,2.5,3.0
+VH-00937,E-Cargo,Rajasthan,Udaipur,2022-08-26,52.9,56.5,5.0
+VH-00544,E-Cargo,Punjab,Amritsar,2021-06-17,41.2,59.5,6.0
+VH-00580,E-Cargo,Telangana,Khammam,2021-10-02,43.5,62.2,5.0
+VH-00488,4W-Electric,Rajasthan,Ajmer,2021-11-29,61.1,42.5,5.0
+VH-00456,E-Cargo,Madhya Pradesh,Gwalior,2023-12-29,38.9,54.9,2.0
+VH-01197,E-Cargo,Madhya Pradesh,Jabalpur,2021-01-14,61.6,,6.0
+VH-00944,3W-Electric,Uttar Pradesh,Agra,2022-10-04,75.3,7.5,7.0
+VH-00889,2W-Electric,Punjab,Jalandhar,2023-04-29,40.8,2.7,3.0
+VH-00998,3W-Electric,Haryana,Ambala,2021-06-03,60.4,7.0,5.0
+VH-00147,E-Bus,Rajasthan,Udaipur,2022-07-24,29.1,199.3,5.0
+VH-00102,E-Cargo,West Bengal,Asansol,2022-11-10,56.9,59.8,2.0
+VH-00477,E-Cargo,Uttar Pradesh,Agra,2021-01-17,65.9,69.3,2.0
+VH-01146,E-Cargo,Madhya Pradesh,Jabalpur,2023-05-12,57.8,56.6,4.0
+VH-00380,3W-Electric,Haryana,Yamunanagar,2023-06-16,52.4,6.5,2.0
+VH-00288,3W-Electric,Punjab,Chandigarh,2021-09-15,,8.9,6.0
+VH-00334,4W-Electric,Gujarat,Surat,2022-08-16,74.5,42.3,4.0
+VH-00967,E-Bus,Kerala,Thiruvananthapuram,2021-08-03,63.6,232.2,6.0
+VH-00376,3W-Electric,Gujarat,Surat,2021-11-14,53.6,6.5,2.0
+VH-00432,E-Bus,Kerala,Thiruvananthapuram,2023-01-30,67.7,199.2,4.0
+VH-00120,3W-Electric,Madhya Pradesh,Gwalior,2022-02-12,55.1,7.9,3.0
+VH-00280,E-Cargo,Rajasthan,Bikaner,2023-05-09,28.8,61.7,6.0
+VH-00408,4W-Electric,Telangana,Karimnagar,2021-02-03,71.1,38.1,4.0
+VH-00875,E-Cargo,Gujarat,Vadodara,2021-05-07,32.8,65.5,3.0
+VH-00822,E-Bus,Uttar Pradesh,Meerut,2022-12-06,84.1,160.4,6.0
+VH-01049,E-Cargo,Telangana,Karimnagar,2022-06-26,18.9,66.1,3.0
+VH-00793,E-Bus,West Bengal,Howrah,2021-06-03,66.6,195.2,6.0
+VH-00968,2W-Electric,Andhra Pradesh,Kurnool,2022-08-02,73.0,2.6,2.0
+VH-00966,E-Cargo,Madhya Pradesh,Bhopal,2022-07-07,37.7,49.2,6.0
+VH-00224,3W-Electric,Uttar Pradesh,Lucknow,2023-10-18,61.2,8.8,7.0
+VH-00388,2W-Electric,Andhra Pradesh,Kurnool,2022-08-07,90.3,2.9,2.0
+VH-00663,4W-Electric,Karnataka,Mysuru,2021-12-07,82.9,47.4,7.0
+VH-00264,E-Bus,Maharashtra,Aurangabad,2021-03-10,11.2,219.8,
+VH-00285,2W-Electric,West Bengal,Durgapur,2023-03-27,38.4,2.2,4.0
+VH-00585,E-Cargo,Gujarat,Gandhinagar,2022-03-21,61.5,52.3,5.0
+VH-00357,E-Cargo,Kerala,Kollam,2023-02-27,71.1,,5.0
+VH-00046,2W-Electric,Gujarat,Surat,2022-11-24,25.1,2.8,2.0
+VH-00182,3W-Electric,Gujarat,Vadodara,2022-09-12,54.8,7.6,2.0
+VH-00273,E-Cargo,Madhya Pradesh,Gwalior,2023-02-20,59.4,50.9,7.0
+VH-00130,E-Bus,Haryana,Ambala,2022-06-15,29.6,166.8,3.0
+VH-00159,E-Bus,Rajasthan,Ajmer,2024-09-16,45.3,236.9,4.0
+VH-00559,3W-Electric,Madhya Pradesh,Ujjain,2024-08-31,91.2,6.1,4.0
+VH-00602,E-Bus,Punjab,Ludhiana,2021-10-09,81.0,229.5,7.0
+VH-00577,E-Cargo,Telangana,Warangal,2023-08-28,23.8,71.7,3.0
+VH-00665,4W-Electric,Madhya Pradesh,Jabalpur,2023-06-01,64.4,32.7,2.0
+VH-01184,E-Bus,Delhi,Faridabad,2023-02-12,51.4,178.3,6.0
+VH-00615,E-Bus,Telangana,Khammam,2021-04-25,60.5,237.6,7.0
+VH-00574,E-Bus,Tamil Nadu,Vellore,2024-02-13,52.8,218.2,5.0
+VH-00127,E-Cargo,Punjab,Jalandhar,2024-02-19,37.1,48.7,6.0
+VH-00266,E-Bus,Rajasthan,Bikaner,2021-12-26,35.2,231.6,3.0
+VH-00684,3W-Electric,Punjab,Patiala,2023-01-20,39.6,7.2,4.0
+VH-00892,4W-Electric,Rajasthan,Kota,2023-02-24,53.8,44.6,7.0
+VH-00655,2W-Electric,Madhya Pradesh,Ujjain,2023-08-04,16.8,2.8,7.0
+VH-01149,2W-Electric,Punjab,Patiala,2023-05-22,26.9,2.2,3.0
+VH-00386,E-Cargo,Tamil Nadu,Coimbatore,2021-10-11,36.3,69.5,4.0
+VH-00503,E-Cargo,Tamil Nadu,Salem,2022-12-03,79.2,71.1,6.0
+VH-00665,4W-Electric,Madhya Pradesh,Jabalpur,2023-06-01,64.4,32.7,2.0
+VH-00105,E-Bus,Andhra Pradesh,Guntur,2024-05-26,52.5,211.6,6.0
+VH-00158,2W-Electric,Haryana,Yamunanagar,2024-03-05,56.4,2.4,2.0
+VH-00917,E-Cargo,Gujarat,Vadodara,2022-09-18,58.8,50.0,7.0
+VH-00659,E-Bus,Andhra Pradesh,Tirupati,2021-06-01,35.6,174.5,5.0
+VH-00213,4W-Electric,Karnataka,Mysuru,2023-04-24,735.733482630746,,7.0
+VH-00702,E-Cargo,Delhi,Dwarka,2022-08-15,67.6,60.9,3.0
+VH-00654,E-Cargo,Kerala,Thiruvananthapuram,2024-01-23,35.3,55.4,3.0
+VH-00946,E-Cargo,Punjab,Amritsar,2021-11-21,28.7,70.5,
+VH-00038,2W-Electric,Uttar Pradesh,Lucknow,2023-01-14,53.5,2.7,4.0
+VH-01153,E-Bus,West Bengal,Kolkata,2024-09-02,47.6,177.0,3.0
+VH-00551,E-Bus,West Bengal,Asansol,2024-02-29,37.5,204.8,2.0
+VH-00240,4W-Electric,Punjab,Chandigarh,2024-06-30,11.6,44.5,7.0
+VH-00282,E-Cargo,Haryana,Ambala,2023-04-16,57.5,53.7,4.0
+VH-00117,E-Cargo,Madhya Pradesh,Indore,2023-08-28,61.1,67.4,7.0
+VH-00092,4W-Electric,Punjab,Ludhiana,2022-03-07,30.7,43.1,7.0
+VH-00862,E-Cargo,Telangana,Warangal,2023-06-09,43.5,63.8,3.0
+VH-00366,2W-Electric,Madhya Pradesh,Gwalior,2022-11-07,58.1,2.2,2.0
+VH-00764,E-Bus,Telangana,Hyderabad,2024-06-07,59.1,236.4,6.0
+VH-00471,4W-Electric,Haryana,Faridabad,2024-03-29,61.9,43.1,7.0
+VH-00811,2W-Electric,Haryana,Gurugram,2021-05-13,91.2,2.3,3.0
+VH-00091,2W-Electric,Telangana,Warangal,2022-09-24,58.5,2.1,4.0
+VH-00890,E-Cargo,Tamil Nadu,Tiruchirappalli,2024-04-08,56.5,60.3,2.0
+VH-01132,2W-Electric,Madhya Pradesh,Ujjain,2024-03-18,55.3,2.3,3.0
+VH-00645,3W-Electric,Rajasthan,Udaipur,2024-07-04,83.9,7.1,5.0
+VH-00808,3W-Electric,Maharashtra,Mumbai,2021-09-25,25.2,8.5,3.0
+VH-00777,3W-Electric,West Bengal,Asansol,2022-10-22,68.6,7.0,
+VH-00422,E-Cargo,Kerala,Thiruvananthapuram,2022-08-25,48.3,59.9,4.0
+VH-00170,E-Cargo,Andhra Pradesh,Guntur,2021-01-21,46.2,66.1,6.0
+VH-00921,E-Cargo,Karnataka,Bengaluru,2024-09-18,31.2,63.2,4.0
+VH-00294,3W-Electric,Rajasthan,Jaipur,2022-06-28,87.4,6.8,2.0
+VH-00894,E-Bus,Tamil Nadu,Madurai,2021-10-22,44.8,186.4,6.0
+VH-01019,3W-Electric,Kerala,Kollam,2023-10-19,56.2,8.2,2.0
+VH-00505,4W-Electric,Gujarat,Surat,2024-02-17,58.5,33.6,
+VH-01190,2W-Electric,Gujarat,Vadodara,2023-03-29,43.0,2.1,7.0
+VH-00453,3W-Electric,Delhi,Dwarka,2022-10-23,21.4,8.3,7.0
+VH-00286,E-Bus,Gujarat,Ahmedabad,2021-07-07,44.1,231.7,7.0
+VH-00440,4W-Electric,Uttar Pradesh,Lucknow,2024-09-29,65.0,33.9,4.0
+VH-00576,E-Bus,Andhra Pradesh,Tirupati,2021-11-02,37.0,189.7,4.0
+VH-00833,2W-Electric,Tamil Nadu,Salem,2021-07-04,92.2,2.6,2.0
+VH-00368,3W-Electric,Haryana,Yamunanagar,2022-11-14,32.9,6.2,2.0
+VH-00441,E-Cargo,Andhra Pradesh,Visakhapatnam,2024-01-16,34.2,49.8,4.0
+VH-01102,E-Cargo,Tamil Nadu,Vellore,2021-06-17,59.2,,4.0
+VH-00834,3W-Electric,Gujarat,Gandhinagar,2021-02-10,92.7,7.8,6.0
+VH-00142,E-Bus,Telangana,Karimnagar,2021-12-05,88.0,208.9,5.0
+VH-01029,E-Cargo,Gujarat,Surat,2022-08-19,65.6,58.7,7.0
+VH-00745,E-Cargo,Tamil Nadu,Chennai,2023-02-26,24.3,60.2,4.0
+VH-00214,E-Bus,Uttar Pradesh,Agra,2024-02-01,84.5,193.5,2.0
+VH-00620,E-Cargo,Delhi,Gurugram,2024-09-09,95.1,62.8,2.0
+VH-00061,E-Bus,Telangana,Nizamabad,2022-03-14,54.6,237.0,5.0
+VH-00985,2W-Electric,Punjab,Amritsar,2021-09-29,84.6,3.0,7.0
+VH-01034,4W-Electric,Telangana,Khammam,2023-05-16,70.6,43.0,2.0
+VH-00904,3W-Electric,West Bengal,Asansol,2023-12-10,43.6,8.9,6.0
+VH-00442,3W-Electric,Delhi,Dwarka,2023-01-11,80.6,8.2,6.0
+VH-01017,2W-Electric,Punjab,Jalandhar,2024-07-20,59.1,2.6,7.0
+VH-00001,2W-Electric,Madhya Pradesh,Bhopal,2022-07-18,32.8,2.4,3.0
+VH-01179,3W-Electric,Haryana,Panipat,2024-05-26,74.8,7.0,3.0
+VH-00558,E-Bus,Haryana,Ambala,2021-06-14,39.0,216.5,7.0
+VH-00184,3W-Electric,Maharashtra,Aurangabad,2024-07-30,71.1,6.4,5.0
+VH-01120,E-Bus,Kerala,Thiruvananthapuram,2024-08-31,61.7,231.1,5.0
+VH-00835,4W-Electric,Uttar Pradesh,Lucknow,2024-06-11,42.5,42.8,3.0
+VH-00478,4W-Electric,Telangana,Warangal,2023-01-20,76.7,40.8,5.0
+VH-00324,E-Bus,West Bengal,Howrah,2023-05-10,66.4,186.8,5.0
+VH-00932,3W-Electric,West Bengal,Durgapur,2024-09-08,74.9,6.5,6.0
+VH-00962,2W-Electric,Maharashtra,Pune,2021-04-09,42.1,2.5,7.0
+VH-00955,E-Cargo,Uttar Pradesh,Allahabad,2024-05-06,50.6,58.1,6.0
+VH-00650,3W-Electric,Rajasthan,Ajmer,2023-09-09,62.8,8.8,4.0
+VH-00689,4W-Electric,Tamil Nadu,Vellore,2024-06-12,33.0,,6.0
+VH-01002,E-Bus,Punjab,Patiala,2021-06-30,41.9,191.6,5.0
+VH-01183,4W-Electric,Punjab,Patiala,2024-01-07,47.1,,
+VH-00022,2W-Electric,Telangana,Karimnagar,2022-03-09,78.9,2.2,6.0
+VH-00949,2W-Electric,Telangana,Hyderabad,2023-12-30,60.5,2.3,3.0
+VH-00717,4W-Electric,Gujarat,Surat,2022-05-22,98.1,38.4,7.0
+VH-00707,3W-Electric,Karnataka,Shivamogga,2022-09-02,56.5,9.0,2.0
+VH-00782,E-Bus,Karnataka,Belagavi,2021-01-17,81.2,190.6,4.0
+VH-00067,E-Cargo,Kerala,Thrissur,2023-12-24,61.8,51.5,3.0
+VH-01004,2W-Electric,Madhya Pradesh,Bhopal,2023-04-07,51.4,2.7,5.0
+VH-01056,E-Cargo,Telangana,Khammam,2023-04-07,31.4,61.0,2.0
+VH-00509,E-Bus,Madhya Pradesh,Ujjain,2023-03-20,45.4,187.7,4.0
+VH-00992,E-Cargo,West Bengal,Siliguri,2022-04-04,41.6,60.4,7.0
+VH-00578,4W-Electric,Haryana,Faridabad,2024-12-20,95.0,43.6,3.0
+VH-01124,E-Bus,Maharashtra,Nagpur,2021-12-06,70.6,217.1,3.0
+VH-00652,E-Cargo,Andhra Pradesh,Tirupati,2022-05-12,66.1,50.4,4.0
+VH-00780,E-Cargo,Tamil Nadu,Coimbatore,2021-04-05,40.8,66.3,5.0
+VH-00797,3W-Electric,Gujarat,Ahmedabad,2021-10-06,61.1,6.9,6.0
+VH-00316,E-Bus,Gujarat,Surat,2022-04-05,74.0,225.3,2.0
+VH-00607,E-Cargo,Maharashtra,Mumbai,2022-07-17,43.2,55.6,6.0
+VH-00666,4W-Electric,Maharashtra,Pune,2022-03-31,57.8,,
+VH-00766,2W-Electric,Andhra Pradesh,Vijayawada,2021-12-02,,2.4,5.0
+VH-00531,3W-Electric,Punjab,Amritsar,2024-06-05,69.2,8.6,7.0
+VH-00546,E-Cargo,Karnataka,Bengaluru,2023-11-02,33.1,,3.0
+VH-00281,E-Bus,Andhra Pradesh,Vijayawada,2024-09-03,55.6,188.5,2.0
+VH-01200,4W-Electric,Punjab,Patiala,2023-03-26,51.9,47.3,3.0
+VH-00198,4W-Electric,Maharashtra,Nashik,2024-12-18,70.4,41.3,4.0
+VH-00545,4W-Electric,Uttar Pradesh,Meerut,2021-06-09,75.5,41.6,6.0
+VH-00970,E-Cargo,Gujarat,Vadodara,2022-02-18,42.0,48.8,4.0
+VH-00129,E-Bus,Haryana,Yamunanagar,2021-11-22,66.0,221.6,7.0
+VH-00323,2W-Electric,Karnataka,Mysuru,2021-07-07,58.3,2.1,7.0
+VH-00201,E-Cargo,Telangana,Hyderabad,2022-04-06,56.4,53.4,7.0
+VH-00458,E-Cargo,Tamil Nadu,Vellore,2024-05-24,30.9,64.3,4.0
+VH-00934,E-Cargo,Andhra Pradesh,Guntur,2022-01-10,46.8,56.4,7.0
+VH-00722,2W-Electric,Rajasthan,Ajmer,2021-07-10,78.3,2.9,7.0
+VH-00149,4W-Electric,West Bengal,Kolkata,2022-04-05,85.9,38.4,7.0
+VH-00310,2W-Electric,Madhya Pradesh,Jabalpur,2021-07-06,86.6,2.8,2.0
+VH-00952,4W-Electric,Gujarat,Surat,2022-10-02,9.5,45.8,3.0
+VH-00066,4W-Electric,West Bengal,Kolkata,2021-04-28,49.8,35.8,2.0
+VH-01041,E-Cargo,Telangana,Warangal,2024-11-26,77.2,57.8,4.0
+VH-00826,3W-Electric,Rajasthan,Ajmer,2021-11-23,13.1,8.2,2.0
+VH-00454,E-Cargo,Gujarat,Vadodara,2022-08-05,19.8,65.7,2.0
+VH-00272,4W-Electric,Karnataka,Mangaluru,2024-10-09,41.9,37.2,7.0
+VH-00144,2W-Electric,Kerala,Kollam,2021-06-21,29.4,2.8,7.0
+VH-00681,3W-Electric,Andhra Pradesh,Kurnool,2023-07-10,84.2,6.7,6.0
+VH-01006,E-Cargo,Madhya Pradesh,Gwalior,2024-02-26,44.2,70.9,3.0
+VH-00872,E-Cargo,Delhi,New Delhi,2023-03-05,56.7,61.4,3.0
+VH-00087,4W-Electric,Punjab,Amritsar,2021-11-27,67.4,43.6,7.0
+VH-00165,4W-Electric,Kerala,Kozhikode,2022-05-18,66.0,36.5,2.0
+VH-00982,2W-Electric,Kerala,Kozhikode,2023-02-03,70.7,2.5,4.0
+VH-01043,E-Cargo,Punjab,Chandigarh,2021-04-21,92.8,56.8,2.0
+VH-00762,2W-Electric,Telangana,Khammam,2022-09-28,46.1,2.4,7.0
+VH-00522,3W-Electric,Andhra Pradesh,Visakhapatnam,2023-05-06,32.1,8.8,3.0
+VH-01138,E-Cargo,Haryana,Faridabad,2024-09-12,73.9,69.8,6.0
+VH-00389,4W-Electric,Punjab,Amritsar,2023-07-10,30.2,45.1,6.0
+VH-00194,3W-Electric,Kerala,Kochi,2024-07-05,86.4,8.7,3.0
+VH-01009,E-Cargo,Punjab,Patiala,2023-08-27,38.4,50.7,7.0
+VH-00109,E-Cargo,Madhya Pradesh,Gwalior,2022-10-05,36.5,68.4,7.0
+VH-00569,3W-Electric,Gujarat,Ahmedabad,2023-10-29,114.3,8.0,4.0
+VH-00172,E-Bus,West Bengal,Howrah,2024-08-15,73.6,226.1,7.0
+VH-00019,3W-Electric,West Bengal,Howrah,2023-08-05,50.4,6.1,5.0
+VH-00910,E-Cargo,Tamil Nadu,Salem,2024-02-04,57.4,64.7,4.0
+VH-00156,E-Bus,Madhya Pradesh,Jabalpur,2022-02-11,80.6,211.5,2.0
+VH-01008,E-Bus,Haryana,Faridabad,2022-11-11,42.7,214.9,6.0
+VH-00644,4W-Electric,Delhi,Noida,2023-09-19,54.6,37.5,
+VH-00734,2W-Electric,Karnataka,Shivamogga,2021-01-03,56.1,2.4,3.0
+VH-00463,4W-Electric,Punjab,Jalandhar,2023-07-18,78.3,47.9,2.0
+VH-00402,E-Cargo,Madhya Pradesh,Ujjain,2022-05-11,66.0,61.3,7.0
+VH-00836,4W-Electric,Punjab,Amritsar,2021-12-30,71.6,45.2,4.0
+VH-00329,E-Bus,Uttar Pradesh,Meerut,2023-04-29,85.2,179.9,4.0
+VH-00017,4W-Electric,Rajasthan,Jodhpur,2024-12-08,34.6,42.9,7.0
+VH-00711,3W-Electric,Tamil Nadu,Tiruchirappalli,2022-02-28,65.1,6.4,3.0
+VH-00076,2W-Electric,Kerala,Kochi,2024-01-07,72.5,2.0,3.0
+VH-00419,E-Bus,Telangana,Nizamabad,2023-03-03,21.2,199.7,4.0
+VH-00420,E-Bus,Tamil Nadu,Salem,2023-01-23,74.7,221.7,6.0
+VH-01026,3W-Electric,Punjab,Amritsar,2023-04-26,71.9,7.3,6.0
+VH-00485,2W-Electric,Telangana,Khammam,2021-04-03,81.5,2.8,2.0
+VH-00657,E-Bus,Haryana,Ambala,2021-10-13,42.9,217.3,7.0
+VH-00242,E-Bus,Telangana,Karimnagar,2024-01-14,61.6,236.0,2.0
+VH-00533,3W-Electric,Telangana,Hyderabad,2021-10-15,36.1,8.3,5.0
+VH-00575,E-Bus,Maharashtra,Thane,2023-12-11,17.7,219.4,4.0
+VH-00679,E-Bus,Uttar Pradesh,Kanpur,2024-07-13,79.5,161.9,3.0
+VH-00547,3W-Electric,Kerala,Kollam,2021-12-03,54.5,8.3,4.0
+VH-00331,E-Cargo,Karnataka,Hubli,2023-09-24,80.7,56.2,6.0
+VH-00964,E-Bus,West Bengal,Durgapur,2024-12-08,49.1,207.9,3.0
+VH-00322,E-Cargo,Tamil Nadu,Coimbatore,2024-09-08,56.9,63.0,5.0
+VH-00684,3W-Electric,Punjab,Patiala,2023-01-20,39.6,7.2,4.0
+VH-00568,E-Bus,Maharashtra,Solapur,2022-04-25,44.4,223.2,6.0
+VH-00344,4W-Electric,Karnataka,Mangaluru,2022-11-27,32.2,41.7,3.0
+VH-00749,3W-Electric,Haryana,Panipat,2023-11-27,44.9,7.3,6.0
+VH-00591,E-Bus,West Bengal,Asansol,2021-07-21,71.1,237.6,7.0
+VH-00398,E-Bus,Kerala,Kollam,2021-08-16,68.4,180.6,4.0
+VH-00090,E-Cargo,Haryana,Panipat,2024-02-06,71.9,48.2,3.0
+VH-00493,2W-Electric,Delhi,Faridabad,2024-05-07,47.6,2.2,5.0
+VH-00499,3W-Electric,Tamil Nadu,Salem,2023-04-21,70.1,7.9,6.0
+VH-00520,4W-Electric,Punjab,Chandigarh,2022-08-08,81.2,36.4,7.0
+VH-00083,4W-Electric,Kerala,Thiruvananthapuram,2022-02-21,82.3,45.1,7.0
+VH-01169,E-Cargo,Delhi,Faridabad,2021-04-28,53.5,60.7,3.0
+VH-00601,2W-Electric,Maharashtra,Mumbai,2024-09-30,62.3,2.8,2.0
+VH-00556,3W-Electric,Delhi,Noida,2021-10-05,67.5,6.6,7.0
+VH-00433,E-Cargo,Uttar Pradesh,Lucknow,2021-10-09,71.4,53.3,6.0
+VH-00195,2W-Electric,Delhi,Faridabad,2021-11-18,49.0,2.1,3.0
+VH-00252,E-Bus,Madhya Pradesh,Gwalior,2022-06-07,48.6,173.8,7.0
+VH-00814,E-Bus,Kerala,Thrissur,2023-10-14,64.6,196.9,2.0
+VH-00898,2W-Electric,Delhi,Noida,2022-04-12,65.2,2.5,3.0
+VH-01161,3W-Electric,Karnataka,Shivamogga,2023-07-04,37.4,8.7,7.0
+VH-00758,E-Bus,Madhya Pradesh,Ujjain,2023-05-18,54.4,203.8,7.0
+VH-00596,E-Bus,Rajasthan,Jodhpur,2024-03-12,60.1,226.3,3.0
+VH-00312,E-Cargo,West Bengal,Kolkata,2024-02-25,66.8,51.9,6.0
+VH-00733,3W-Electric,Madhya Pradesh,Gwalior,2023-05-30,65.2,7.1,7.0
+VH-00678,4W-Electric,West Bengal,Howrah,2024-02-21,64.1,33.5,5.0
+VH-00789,E-Bus,West Bengal,Howrah,2023-10-05,37.9,224.9,2.0
+VH-01156,E-Bus,Haryana,Yamunanagar,2024-03-02,87.0,183.6,4.0
+VH-01135,2W-Electric,Andhra Pradesh,Guntur,2022-03-20,,2.4,5.0
+VH-00375,3W-Electric,Delhi,Dwarka,2022-12-01,47.8,7.9,5.0
+VH-00941,E-Bus,West Bengal,Durgapur,2021-04-21,47.0,214.9,3.0
+VH-01191,2W-Electric,Andhra Pradesh,Guntur,2024-02-10,62.9,2.6,3.0
+VH-01090,E-Cargo,Uttar Pradesh,Allahabad,2021-05-30,50.2,65.3,4.0
+VH-00784,E-Bus,Kerala,Thiruvananthapuram,2023-01-25,36.5,222.0,6.0
+VH-01055,2W-Electric,Tamil Nadu,Tiruchirappalli,2023-11-01,58.7,2.5,3.0
+VH-00523,E-Bus,Maharashtra,Solapur,2022-01-17,30.5,193.6,7.0
+VH-00802,E-Cargo,Delhi,Faridabad,2021-03-24,69.7,63.7,3.0
+VH-00352,E-Bus,Rajasthan,Jodhpur,2021-05-20,8.6,233.6,5.0
+VH-00664,E-Cargo,Kerala,Kochi,2024-08-14,53.5,61.2,7.0
+VH-00081,4W-Electric,Karnataka,Mysuru,2021-08-25,47.9,,2.0
+VH-00346,E-Cargo,Karnataka,Belagavi,2022-02-02,57.0,70.2,
+VH-00622,E-Bus,Tamil Nadu,Vellore,2021-06-07,,234.5,4.0
+VH-00251,3W-Electric,Uttar Pradesh,Meerut,2022-04-21,96.1,8.7,5.0
+VH-00309,4W-Electric,Rajasthan,Bikaner,2023-02-06,64.8,33.1,3.0
+VH-00296,E-Bus,Andhra Pradesh,Visakhapatnam,2023-07-08,35.0,194.0,4.0
+VH-00514,2W-Electric,Delhi,Dwarka,2024-06-14,14.3,2.8,7.0
+VH-01101,E-Bus,Rajasthan,Udaipur,2024-02-04,39.7,227.7,2.0
+VH-00819,E-Bus,Telangana,Warangal,2022-02-13,69.4,204.4,7.0
+VH-00465,3W-Electric,Uttar Pradesh,Varanasi,2022-11-28,44.6,6.7,6.0
+VH-00327,E-Cargo,Tamil Nadu,Coimbatore,2021-04-12,45.3,69.5,7.0
+VH-00880,E-Bus,Delhi,New Delhi,2021-03-13,716.971697104881,180.1,
+VH-00121,3W-Electric,Maharashtra,Mumbai,2023-09-01,59.6,8.1,6.0
+VH-00931,E-Bus,Madhya Pradesh,Ujjain,2024-10-07,45.0,199.5,4.0
+VH-01192,4W-Electric,Uttar Pradesh,Agra,2022-03-24,83.3,34.4,6.0
+VH-00220,4W-Electric,West Bengal,Howrah,2023-06-17,60.6,39.5,7.0
+VH-00401,E-Cargo,Haryana,Ambala,2024-01-03,22.4,48.4,2.0
+VH-01172,E-Cargo,Punjab,Patiala,2023-11-23,59.3,55.5,7.0
+VH-00193,E-Cargo,Telangana,Karimnagar,2024-06-25,14.3,66.7,2.0
+VH-00827,3W-Electric,Gujarat,Bhavnagar,2022-06-30,21.0,8.7,6.0
+VH-00291,3W-Electric,Maharashtra,Aurangabad,2021-09-24,40.5,8.5,6.0
+VH-00181,2W-Electric,Kerala,Kozhikode,2022-02-02,41.0,2.8,4.0
+VH-01119,4W-Electric,West Bengal,Durgapur,2024-03-31,37.9,37.7,6.0
+VH-00186,4W-Electric,Uttar Pradesh,Varanasi,2022-01-13,82.2,33.6,2.0
+VH-00403,E-Bus,Tamil Nadu,Madurai,2021-01-04,45.6,212.1,6.0
+VH-00418,4W-Electric,Haryana,Panipat,2021-09-12,24.6,32.8,4.0
+VH-00461,E-Bus,Kerala,Kochi,2024-07-08,,235.6,6.0
+VH-00205,4W-Electric,Andhra Pradesh,Tirupati,2023-10-22,46.4,42.1,6.0
+VH-00999,4W-Electric,Rajasthan,Jodhpur,2022-07-24,54.6,40.1,2.0
+VH-00543,E-Cargo,West Bengal,Asansol,2024-09-22,51.5,48.3,3.0
+VH-00075,2W-Electric,Punjab,Ludhiana,2023-07-28,89.1,2.0,6.0
+VH-00933,2W-Electric,Tamil Nadu,Madurai,2023-08-23,43.7,2.7,3.0
+VH-00807,2W-Electric,Karnataka,Mangaluru,2021-10-14,55.6,2.8,2.0
+VH-00926,2W-Electric,Punjab,Amritsar,2024-05-13,658.673641590807,2.9,5.0
+VH-00003,E-Cargo,West Bengal,Kolkata,2023-05-15,60.6,,2.0
+VH-00268,4W-Electric,Delhi,Dwarka,2023-09-14,56.6,39.2,4.0
+VH-00085,2W-Electric,Haryana,Gurugram,2024-07-23,26.2,2.1,5.0
+VH-00929,E-Cargo,Telangana,Hyderabad,2024-12-21,51.7,59.3,6.0
+VH-00987,E-Cargo,Kerala,Thrissur,2024-10-21,52.9,,5.0
+VH-01151,E-Bus,Kerala,Kollam,2022-06-12,79.7,221.4,3.0
+VH-00741,2W-Electric,Madhya Pradesh,Indore,2023-12-23,43.7,2.1,6.0
+VH-01131,E-Cargo,Tamil Nadu,Tiruchirappalli,2021-11-26,42.5,66.0,3.0
+VH-00143,E-Cargo,Tamil Nadu,Tiruchirappalli,2021-02-25,40.4,58.1,5.0
+VH-00849,3W-Electric,Andhra Pradesh,Visakhapatnam,2022-12-12,26.8,6.6,4.0
+VH-00640,2W-Electric,Telangana,Nizamabad,2024-02-20,,2.7,3.0
+VH-00157,2W-Electric,Kerala,Thiruvananthapuram,2024-11-28,68.7,2.5,4.0
+VH-00210,E-Bus,Uttar Pradesh,Meerut,2022-07-24,27.9,188.3,3.0
+VH-00552,4W-Electric,West Bengal,Asansol,2021-02-14,55.8,37.6,5.0
+VH-00742,E-Bus,Maharashtra,Nagpur,2022-12-21,46.8,169.7,7.0
+VH-00980,2W-Electric,Haryana,Gurugram,2021-10-11,32.7,2.6,7.0
+VH-00683,2W-Electric,Gujarat,Vadodara,2024-03-28,63.3,3.0,2.0
+VH-00180,4W-Electric,Andhra Pradesh,Tirupati,2024-04-22,31.1,44.0,6.0
+VH-00772,3W-Electric,Uttar Pradesh,Meerut,2023-01-24,56.3,8.2,3.0
+VH-00135,3W-Electric,Telangana,Warangal,2021-05-12,46.1,8.4,5.0
+VH-00002,2W-Electric,Gujarat,Surat,2024-10-17,61.4,,7.0
+VH-00313,2W-Electric,Rajasthan,Bikaner,2023-04-22,65.9,2.2,4.0
+VH-00110,4W-Electric,Haryana,Gurugram,2023-11-05,44.7,40.9,4.0
+VH-00161,2W-Electric,Haryana,Ambala,2023-06-07,42.6,2.8,4.0
+VH-00512,E-Bus,Delhi,Faridabad,2022-03-15,44.5,162.0,3.0
+VH-00550,2W-Electric,West Bengal,Asansol,2023-07-18,54.5,2.7,3.0
+VH-00377,E-Cargo,Delhi,New Delhi,2024-01-11,53.2,65.2,7.0
+VH-00206,2W-Electric,Uttar Pradesh,Varanasi,2024-05-09,92.2,2.6,2.0
+VH-00844,E-Bus,Haryana,Faridabad,2022-09-21,66.5,193.7,7.0
+VH-00289,E-Cargo,Gujarat,Ahmedabad,2022-03-01,62.8,50.7,6.0
+VH-00057,3W-Electric,West Bengal,Asansol,2023-05-15,64.1,,3.0
+VH-00173,2W-Electric,Uttar Pradesh,Varanasi,2021-07-10,50.2,2.3,4.0
+VH-00385,E-Cargo,Punjab,Jalandhar,2023-12-17,41.9,64.0,5.0
+VH-01096,3W-Electric,Andhra Pradesh,Kurnool,2024-03-04,72.1,6.0,6.0
+VH-00541,E-Bus,Gujarat,Surat,2021-11-10,42.3,181.5,5.0
+VH-00232,E-Cargo,Rajasthan,Udaipur,2024-01-18,86.0,68.5,5.0
+VH-01068,3W-Electric,Karnataka,Mysuru,2024-11-04,29.5,6.1,5.0
+VH-00725,4W-Electric,Delhi,Rohini,2022-11-23,31.2,33.3,6.0
+VH-00697,2W-Electric,Maharashtra,Thane,2023-09-20,68.9,3.0,3.0
+VH-00958,3W-Electric,Gujarat,Surat,2022-03-09,61.3,8.4,7.0
+VH-00813,E-Bus,Karnataka,Bengaluru,2021-04-14,42.6,210.9,3.0
+VH-00311,2W-Electric,Karnataka,Mangaluru,2023-02-03,43.1,2.1,
+VH-00078,4W-Electric,Gujarat,Vadodara,2021-11-20,30.5,34.8,5.0
+VH-01003,2W-Electric,Uttar Pradesh,Agra,2023-10-16,,2.4,7.0
+VH-00961,E-Cargo,Punjab,Patiala,2021-04-10,61.8,68.9,6.0
+VH-00237,4W-Electric,West Bengal,Siliguri,2021-07-25,20.4,34.2,5.0
+VH-00427,2W-Electric,Madhya Pradesh,Bhopal,2024-10-06,28.6,2.4,7.0
+VH-00957,3W-Electric,Rajasthan,Jodhpur,2023-04-07,58.9,6.9,2.0
+VH-01076,2W-Electric,Madhya Pradesh,Ujjain,2024-04-14,31.5,3.0,2.0
+VH-00878,E-Bus,West Bengal,Kolkata,2023-12-07,62.0,188.0,5.0
+VH-00916,3W-Electric,Uttar Pradesh,Kanpur,2024-05-16,31.7,7.8,2.0
+VH-00703,E-Cargo,Punjab,Jalandhar,2023-10-12,86.7,50.3,6.0
+VH-00176,E-Cargo,Rajasthan,Kota,2022-11-09,42.7,,4.0
+VH-00965,2W-Electric,Gujarat,Bhavnagar,2022-09-09,76.0,2.3,5.0
+VH-00527,E-Bus,Tamil Nadu,Tiruchirappalli,2022-07-13,56.5,177.0,3.0
+VH-00838,E-Cargo,Tamil Nadu,Chennai,2023-01-18,42.0,65.0,2.0
+VH-01037,4W-Electric,Delhi,Faridabad,2021-10-27,35.7,46.2,2.0
+VH-00457,E-Cargo,West Bengal,Howrah,2024-04-04,16.3,55.1,3.0
+VH-00565,E-Cargo,Punjab,Jalandhar,2021-02-02,63.0,58.9,3.0
+VH-01052,2W-Electric,Rajasthan,Ajmer,2024-07-04,59.6,2.9,6.0
+VH-00619,2W-Electric,Uttar Pradesh,Agra,2021-06-02,54.4,2.9,7.0
+VH-01168,E-Cargo,Telangana,Nizamabad,2024-09-05,2.2,57.7,6.0
+VH-00318,E-Bus,Kerala,Thiruvananthapuram,2024-02-23,10.4,184.1,6.0
+VH-00902,4W-Electric,Uttar Pradesh,Meerut,2021-04-26,54.9,42.5,6.0
+VH-00600,3W-Electric,West Bengal,Asansol,2024-01-16,79.5,7.4,7.0
+VH-00642,4W-Electric,Tamil Nadu,Coimbatore,2022-09-09,41.3,45.8,4.0
+VH-00153,4W-Electric,Uttar Pradesh,Allahabad,2023-01-26,51.0,42.5,3.0
+VH-00047,3W-Electric,Kerala,Kollam,2024-04-20,50.8,6.7,3.0
+VH-00626,2W-Electric,Rajasthan,Jaipur,2023-06-15,60.9,2.7,3.0
+VH-01094,3W-Electric,Kerala,Kochi,2022-10-13,41.3,8.9,5.0
+VH-00582,4W-Electric,Karnataka,Mangaluru,2021-07-09,29.9,42.1,6.0
+VH-01016,3W-Electric,Gujarat,Rajkot,2022-11-24,20.3,6.0,2.0
+VH-00348,3W-Electric,Tamil Nadu,Madurai,2021-12-22,65.5,7.2,6.0
+VH-01011,2W-Electric,Punjab,Amritsar,2022-12-01,85.4,2.1,4.0
+VH-01092,E-Bus,Andhra Pradesh,Kurnool,2022-11-09,40.1,188.7,4.0
+VH-00241,4W-Electric,Telangana,Hyderabad,2024-10-13,74.6,38.3,6.0
+VH-00613,4W-Electric,Andhra Pradesh,Vijayawada,2024-11-01,36.2,34.2,2.0
+VH-00482,E-Cargo,Delhi,Gurugram,2021-09-01,54.8,53.3,3.0
+VH-00942,4W-Electric,Tamil Nadu,Coimbatore,2023-04-19,65.5,45.4,6.0
+VH-01082,4W-Electric,Madhya Pradesh,Indore,2024-10-19,49.6,45.8,7.0
+VH-00063,4W-Electric,Delhi,Noida,2023-05-17,57.0,36.6,7.0
+VH-01047,2W-Electric,Uttar Pradesh,Kanpur,2022-01-18,33.0,2.4,3.0
+VH-00959,2W-Electric,Maharashtra,Nagpur,2023-01-21,72.8,2.0,7.0
+VH-00292,2W-Electric,Delhi,Dwarka,2024-09-15,44.3,2.7,2.0
+VH-01035,2W-Electric,West Bengal,Kolkata,2023-02-20,49.9,2.4,3.0
+VH-00746,3W-Electric,Telangana,Karimnagar,2022-05-23,73.2,7.9,4.0
+VH-01044,3W-Electric,Andhra Pradesh,Guntur,2024-06-24,45.8,6.4,5.0
+VH-00590,4W-Electric,West Bengal,Durgapur,2022-06-20,,38.3,4.0
+VH-00781,4W-Electric,Karnataka,Mangaluru,2022-09-29,67.1,36.2,4.0
+VH-00593,E-Cargo,Telangana,Hyderabad,2022-03-30,23.9,66.6,7.0
+VH-00023,3W-Electric,Andhra Pradesh,Guntur,2024-09-04,,8.9,
+VH-00776,3W-Electric,Rajasthan,Kota,2022-01-02,81.0,6.9,2.0
+VH-00536,2W-Electric,Kerala,Kollam,2022-06-20,64.8,2.5,7.0
+VH-00481,E-Cargo,Karnataka,Mangaluru,2023-07-12,38.2,65.4,6.0
+VH-00189,3W-Electric,Maharashtra,Nagpur,2024-02-27,78.1,8.1,4.0
+VH-01103,E-Cargo,Haryana,Faridabad,2022-02-07,22.2,49.9,4.0
+VH-00803,3W-Electric,Haryana,Panipat,2021-07-06,61.5,6.5,7.0
+VH-00557,4W-Electric,Andhra Pradesh,Tirupati,2023-02-23,60.5,34.7,5.0
+VH-01040,3W-Electric,Andhra Pradesh,Kurnool,2024-08-18,79.3,6.2,6.0
+VH-00136,E-Cargo,Telangana,Karimnagar,2023-08-13,21.6,49.9,5.0
+VH-00994,2W-Electric,Andhra Pradesh,Kurnool,2023-06-06,43.4,2.6,7.0
+VH-00259,2W-Electric,Telangana,Karimnagar,2024-03-05,72.0,2.6,7.0
+VH-00228,4W-Electric,Tamil Nadu,Chennai,2023-04-30,65.7,42.7,4.0
+VH-01042,E-Bus,Andhra Pradesh,Visakhapatnam,2023-03-05,31.3,208.5,5.0
+VH-00317,4W-Electric,Rajasthan,Ajmer,2021-08-24,41.5,39.0,4.0
+VH-00598,E-Bus,Andhra Pradesh,Tirupati,2021-12-11,27.2,216.5,7.0
+VH-00108,4W-Electric,Madhya Pradesh,Indore,2023-06-03,70.5,38.2,2.0
+VH-01106,3W-Electric,Punjab,Patiala,2021-03-17,52.3,8.8,6.0
+VH-01199,4W-Electric,Uttar Pradesh,Meerut,2023-10-03,33.2,34.4,3.0
+VH-00428,E-Cargo,Telangana,Karimnagar,2024-10-23,50.5,61.0,3.0
+VH-01105,E-Cargo,Madhya Pradesh,Bhopal,2024-03-31,57.1,56.4,5.0
+VH-00788,4W-Electric,Punjab,Jalandhar,2021-08-01,91.0,44.0,3.0
+VH-01194,3W-Electric,Gujarat,Surat,2022-06-28,86.6,8.0,3.0
+VH-00828,3W-Electric,Haryana,Gurugram,2024-03-25,84.1,7.2,5.0
+VH-01196,2W-Electric,Tamil Nadu,Chennai,2021-06-10,50.3,2.3,7.0
+VH-00031,2W-Electric,Delhi,Gurugram,2024-10-25,50.9,2.8,
+VH-00011,E-Bus,Punjab,Ludhiana,2024-01-04,42.4,196.5,2.0
+VH-00439,E-Bus,Tamil Nadu,Chennai,2021-12-20,26.9,185.5,7.0
+VH-00343,E-Cargo,Gujarat,Rajkot,2023-04-01,60.0,65.0,6.0
+VH-00581,3W-Electric,Gujarat,Vadodara,2022-11-08,65.7,8.7,7.0
+VH-00459,2W-Electric,Haryana,Yamunanagar,2021-02-28,51.7,2.2,2.0
+VH-00785,E-Cargo,Uttar Pradesh,Kanpur,2022-05-18,43.3,63.5,3.0
+VH-00126,2W-Electric,West Bengal,Howrah,2023-07-24,62.1,2.6,3.0
+VH-00258,4W-Electric,Kerala,Kozhikode,2021-02-14,55.8,44.8,7.0
+VH-00853,2W-Electric,Punjab,Ludhiana,2021-04-09,75.7,2.3,5.0
+VH-01080,3W-Electric,Maharashtra,Kolhapur,2023-12-29,,7.2,3.0
+VH-00314,2W-Electric,Haryana,Ambala,2022-08-13,75.7,2.5,6.0
+VH-00843,3W-Electric,Punjab,Chandigarh,2024-09-25,58.8,7.8,6.0
+VH-00706,E-Cargo,Punjab,Jalandhar,2022-03-24,26.9,51.7,5.0
+VH-00005,E-Cargo,Kerala,Kochi,2022-02-12,43.4,48.5,7.0
+VH-00709,3W-Electric,Haryana,Gurugram,2022-03-06,40.0,7.6,7.0
+VH-00199,2W-Electric,Andhra Pradesh,Tirupati,2024-11-08,26.1,3.0,3.0
+VH-00410,E-Cargo,Madhya Pradesh,Bhopal,2022-11-12,59.0,62.5,3.0
+VH-00175,E-Bus,Kerala,Kozhikode,2024-02-08,49.6,232.4,6.0
+VH-01005,2W-Electric,Maharashtra,Mumbai,2024-05-22,73.4,2.6,6.0
+VH-00995,E-Bus,Andhra Pradesh,Vijayawada,2022-12-10,62.5,201.0,
+VH-00203,E-Cargo,Tamil Nadu,Madurai,2024-03-11,64.5,49.8,4.0
+VH-00178,3W-Electric,Gujarat,Ahmedabad,2022-10-09,76.3,7.3,2.0
+VH-00276,E-Bus,Madhya Pradesh,Bhopal,2024-12-06,54.9,203.0,4.0
+VH-00572,3W-Electric,Madhya Pradesh,Ujjain,2023-04-27,66.3,8.0,4.0
+VH-00413,3W-Electric,Madhya Pradesh,Indore,2021-05-10,66.5,8.2,7.0
+VH-00014,3W-Electric,Karnataka,Bengaluru,2022-08-16,44.7,6.5,2.0
+VH-00484,3W-Electric,Rajasthan,Jodhpur,2024-05-18,37.6,7.8,6.0
+VH-01160,E-Bus,Kerala,Kozhikode,2021-10-10,39.8,175.9,7.0
+VH-00796,4W-Electric,Andhra Pradesh,Guntur,2023-07-17,51.7,42.3,4.0
+VH-00539,4W-Electric,Madhya Pradesh,Ujjain,2024-11-14,40.2,35.2,2.0
+VH-00118,2W-Electric,Tamil Nadu,Vellore,2022-08-05,60.1,2.9,6.0
+VH-00537,3W-Electric,Rajasthan,Bikaner,2021-05-08,62.5,6.4,7.0
+VH-00164,E-Bus,Punjab,Jalandhar,2023-06-12,66.6,224.3,7.0
+VH-00112,3W-Electric,Delhi,Gurugram,2022-01-28,90.3,6.3,5.0
+VH-00345,2W-Electric,Rajasthan,Jodhpur,2023-11-12,58.7,2.4,7.0
+VH-01028,E-Cargo,Haryana,Panipat,2024-07-19,33.1,66.9,3.0
+VH-00483,4W-Electric,Karnataka,Mangaluru,2022-11-26,-14.6,42.9,6.0
+VH-01058,4W-Electric,Rajasthan,Udaipur,2022-03-24,79.6,36.8,6.0
+VH-00131,E-Cargo,Haryana,Panipat,2023-09-20,102.8,49.2,7.0
+VH-01022,3W-Electric,Tamil Nadu,Vellore,2021-08-01,42.1,7.5,5.0
+VH-01030,3W-Electric,Rajasthan,Bikaner,2024-12-25,64.8,8.6,7.0
+VH-00339,E-Cargo,Karnataka,Hubli,2023-05-30,58.6,59.1,6.0
+VH-01085,E-Cargo,Kerala,Thrissur,2024-01-27,78.3,,2.0
+VH-00073,3W-Electric,Madhya Pradesh,Gwalior,2022-06-28,45.1,6.3,5.0
+VH-00950,2W-Electric,Andhra Pradesh,Guntur,2022-10-22,68.0,2.6,6.0
+VH-01130,2W-Electric,Haryana,Ambala,2022-05-15,36.1,,2.0
+VH-00516,3W-Electric,West Bengal,Howrah,2021-04-18,46.9,9.0,2.0
+VH-00918,E-Bus,Andhra Pradesh,Guntur,2023-02-11,59.8,200.4,4.0
+VH-01095,E-Cargo,Uttar Pradesh,Agra,2024-09-12,44.3,48.2,4.0
+VH-00013,E-Cargo,Kerala,Kozhikode,2022-01-29,57.4,62.2,7.0
+VH-00448,2W-Electric,Haryana,Yamunanagar,2021-09-14,55.9,2.8,4.0
+VH-00625,2W-Electric,Tamil Nadu,Vellore,2023-10-23,39.6,2.4,7.0
+VH-00209,E-Cargo,Punjab,Chandigarh,2021-03-24,51.8,54.7,3.0
+VH-01083,2W-Electric,Madhya Pradesh,Gwalior,2024-02-08,78.9,,6.0
+VH-00566,2W-Electric,Gujarat,Ahmedabad,2024-05-01,98.7,2.7,2.0
+VH-01093,3W-Electric,Tamil Nadu,Vellore,2021-07-24,37.1,8.4,4.0
+VH-00594,4W-Electric,Tamil Nadu,Chennai,2024-02-08,49.6,33.2,6.0
+VH-00341,3W-Electric,Maharashtra,Thane,2024-06-19,90.6,6.1,5.0
+VH-00347,3W-Electric,Rajasthan,Bikaner,2022-04-29,105.8,7.4,2.0
+VH-01050,4W-Electric,Tamil Nadu,Tiruchirappalli,2021-01-12,47.9,46.4,4.0
+VH-00305,E-Cargo,Uttar Pradesh,Meerut,2023-06-01,40.5,66.2,2.0
+VH-00037,2W-Electric,West Bengal,Siliguri,2024-05-11,34.2,2.9,4.0
+VH-00043,E-Cargo,Telangana,Warangal,2024-11-13,26.6,48.8,3.0
+VH-01162,3W-Electric,Tamil Nadu,Chennai,2023-11-08,26.7,6.2,5.0
+VH-00991,2W-Electric,Madhya Pradesh,Gwalior,2024-12-13,37.1,2.6,7.0
+VH-01089,E-Cargo,Tamil Nadu,Vellore,2021-04-22,94.1,63.0,6.0
+VH-00748,4W-Electric,Kerala,Kollam,2024-11-15,50.8,46.2,2.0
+VH-00460,3W-Electric,Maharashtra,Aurangabad,2024-03-17,38.5,8.6,5.0
+VH-00424,E-Cargo,Delhi,Noida,2023-05-23,47.0,67.7,3.0
+VH-01188,4W-Electric,Madhya Pradesh,Indore,2023-04-25,56.0,33.2,4.0
+VH-00597,4W-Electric,Uttar Pradesh,Meerut,2022-06-12,68.0,38.9,5.0
+VH-00295,E-Bus,Tamil Nadu,Vellore,2023-12-14,43.7,221.6,2.0
+VH-00586,4W-Electric,Gujarat,Vadodara,2021-02-01,49.2,39.9,3.0
+VH-00027,3W-Electric,Rajasthan,Jodhpur,2023-11-10,28.1,8.5,5.0
+VH-00691,2W-Electric,Gujarat,Vadodara,2022-01-10,39.8,2.1,4.0
+VH-00685,2W-Electric,Gujarat,Rajkot,2022-06-22,74.5,2.4,7.0
+VH-00840,4W-Electric,Rajasthan,Udaipur,2021-10-07,71.0,34.4,3.0
+VH-00511,4W-Electric,Andhra Pradesh,Visakhapatnam,2023-06-25,62.3,47.6,7.0
+VH-00720,2W-Electric,Karnataka,Shivamogga,2023-04-06,55.0,2.9,6.0
+VH-00354,E-Cargo,Maharashtra,Thane,2021-06-01,38.6,58.9,4.0
+VH-01148,E-Bus,Punjab,Jalandhar,2022-12-19,55.3,196.6,6.0
+VH-00056,3W-Electric,Rajasthan,Jaipur,2022-01-28,61.9,6.7,3.0
+VH-00464,3W-Electric,Andhra Pradesh,Visakhapatnam,2023-06-20,87.4,7.5,5.0
+VH-00217,E-Bus,Haryana,Yamunanagar,2023-04-27,60.9,239.0,2.0
+VH-00744,3W-Electric,Madhya Pradesh,Jabalpur,2021-06-27,42.4,6.2,2.0
+VH-00041,3W-Electric,Punjab,Amritsar,2024-09-13,47.0,,5.0
+VH-00397,3W-Electric,Delhi,Dwarka,2024-01-29,98.1,7.3,7.0
+VH-01167,E-Cargo,Rajasthan,Jaipur,2021-03-19,50.6,51.0,7.0
+VH-00705,4W-Electric,Punjab,Patiala,2024-01-16,44.3,42.6,
+VH-01000,E-Cargo,West Bengal,Howrah,2024-08-10,76.5,64.9,5.0
+VH-00945,E-Bus,Maharashtra,Mumbai,2022-07-15,75.6,184.4,3.0
+VH-01117,E-Bus,West Bengal,Durgapur,2023-08-20,56.6,178.1,5.0
+VH-00179,3W-Electric,Andhra Pradesh,Kurnool,2022-01-28,79.1,6.9,3.0
+VH-00177,4W-Electric,Andhra Pradesh,Tirupati,2022-09-20,93.2,47.2,4.0
+VH-00508,4W-Electric,West Bengal,Durgapur,2021-09-07,58.5,41.3,6.0
+VH-00571,3W-Electric,Kerala,Kozhikode,2022-09-11,32.4,6.7,3.0
+VH-01059,E-Cargo,West Bengal,Asansol,2024-08-22,29.8,54.2,2.0
+VH-00301,E-Bus,Uttar Pradesh,Allahabad,2021-05-31,52.0,202.6,2.0
+VH-01141,2W-Electric,Tamil Nadu,Chennai,2022-02-19,65.4,2.6,6.0
+VH-00629,E-Bus,Delhi,Noida,2022-04-13,66.3,205.4,4.0
+VH-01158,E-Bus,West Bengal,Siliguri,2022-01-02,71.2,,4.0
+VH-00974,E-Cargo,Karnataka,Bengaluru,2024-10-02,67.8,67.9,5.0
+VH-00953,E-Cargo,Karnataka,Mangaluru,2024-04-20,60.1,61.1,4.0
+VH-00519,E-Bus,Telangana,Nizamabad,2024-08-25,77.4,215.5,3.0
+VH-00728,2W-Electric,Punjab,Jalandhar,2021-09-12,58.4,2.8,3.0
+VH-00993,E-Cargo,Haryana,Panipat,2023-12-08,76.7,48.1,7.0
+VH-01048,2W-Electric,Andhra Pradesh,Kurnool,2023-02-12,47.8,2.0,2.0
+VH-01129,E-Cargo,Uttar Pradesh,Kanpur,2021-11-27,61.7,54.8,7.0
+VH-00030,E-Cargo,Telangana,Nizamabad,2023-08-17,72.8,65.5,6.0
+VH-00562,E-Cargo,Delhi,Noida,2023-05-19,,67.6,6.0
+VH-01067,E-Cargo,Punjab,Patiala,2021-01-16,46.0,,7.0
+VH-01139,4W-Electric,Delhi,Dwarka,2023-07-18,53.7,38.0,6.0
+VH-00778,4W-Electric,Telangana,Karimnagar,2021-06-09,78.2,35.0,6.0
+VH-00204,E-Bus,Uttar Pradesh,Lucknow,2024-11-11,56.1,201.8,4.0
+VH-00445,E-Bus,Kerala,Kozhikode,2024-02-04,72.4,185.5,3.0
+VH-00372,3W-Electric,Punjab,Chandigarh,2024-10-04,59.1,6.5,7.0
+VH-00033,4W-Electric,Rajasthan,Jaipur,2023-06-10,24.8,45.8,3.0
+VH-00906,E-Bus,Gujarat,Ahmedabad,2021-04-14,59.0,223.4,4.0
+VH-00335,E-Bus,Karnataka,Bengaluru,2023-06-01,22.4,215.5,3.0
+VH-00383,E-Bus,Gujarat,Vadodara,2022-02-02,59.7,217.8,4.0
+VH-00740,E-Bus,Delhi,Dwarka,2021-09-30,53.7,239.6,7.0
+VH-00812,3W-Electric,Madhya Pradesh,Jabalpur,2021-07-08,67.5,8.6,4.0
+VH-00373,2W-Electric,Haryana,Yamunanagar,2024-08-16,52.0,2.9,7.0
+VH-01147,E-Cargo,Haryana,Gurugram,2023-05-29,-1.7,71.0,3.0
+VH-01176,3W-Electric,Telangana,Khammam,2023-11-27,58.8,6.8,2.0
+VH-00004,3W-Electric,Maharashtra,Pune,2022-04-22,75.2,8.1,6.0
+VH-00739,2W-Electric,Andhra Pradesh,Visakhapatnam,2022-10-04,41.2,2.2,4.0
+VH-00643,2W-Electric,Uttar Pradesh,Kanpur,2021-12-09,,2.5,
+VH-00430,2W-Electric,Maharashtra,Nagpur,2022-04-29,67.4,2.7,7.0
+VH-00879,E-Cargo,West Bengal,Asansol,2022-04-28,46.5,50.7,5.0
+VH-01180,E-Cargo,Uttar Pradesh,Varanasi,2021-01-10,28.0,71.4,4.0
+VH-00446,2W-Electric,Kerala,Kochi,2022-09-26,60.7,2.6,5.0
+VH-00042,4W-Electric,West Bengal,Howrah,2023-12-17,53.8,33.7,6.0
+VH-00223,2W-Electric,Maharashtra,Solapur,2022-04-06,85.3,2.8,
+VH-01112,3W-Electric,Tamil Nadu,Tiruchirappalli,2023-07-03,40.8,6.9,3.0
+VH-00718,3W-Electric,Telangana,Nizamabad,2024-03-28,32.4,7.5,7.0
+VH-00846,E-Cargo,Maharashtra,Solapur,2021-03-08,60.2,57.8,3.0
+VH-00114,E-Cargo,Delhi,Noida,2021-01-01,56.0,65.8,4.0
+VH-00049,2W-Electric,Maharashtra,Thane,2023-11-19,65.0,2.9,3.0
+VH-00290,4W-Electric,Gujarat,Surat,2021-10-30,53.3,45.8,6.0
+VH-00077,3W-Electric,West Bengal,Durgapur,2022-12-16,68.0,7.5,2.0
+VH-00207,E-Cargo,Telangana,Karimnagar,2022-05-28,52.8,62.0,2.0
+VH-01066,2W-Electric,Rajasthan,Ajmer,2021-07-16,73.0,2.6,3.0
+VH-00124,2W-Electric,Gujarat,Surat,2021-08-07,37.9,2.0,5.0
+VH-01045,4W-Electric,Haryana,Faridabad,2024-04-20,55.1,39.8,6.0
+VH-00387,4W-Electric,Maharashtra,Kolhapur,2024-02-10,21.6,32.2,2.0
+VH-00226,E-Bus,Uttar Pradesh,Kanpur,2024-02-03,,170.3,3.0
+VH-00824,E-Cargo,Maharashtra,Thane,2022-03-25,32.9,51.6,2.0
+VH-00633,3W-Electric,Tamil Nadu,Salem,2023-03-09,80.8,8.4,4.0
+VH-01014,E-Bus,Tamil Nadu,Vellore,2021-08-08,51.6,213.5,4.0
+VH-00222,3W-Electric,Punjab,Amritsar,2022-09-29,53.9,8.6,6.0
+VH-01091,4W-Electric,Madhya Pradesh,Bhopal,2021-07-21,46.8,43.1,3.0
+VH-01062,E-Bus,Madhya Pradesh,Gwalior,2021-08-21,18.5,171.1,5.0
+VH-00618,3W-Electric,Maharashtra,Nashik,2024-11-18,36.7,8.5,6.0
+VH-01170,E-Bus,Madhya Pradesh,Jabalpur,2021-01-22,55.3,197.1,3.0
+VH-00696,4W-Electric,Tamil Nadu,Coimbatore,2023-07-13,30.3,42.7,6.0
+VH-01140,3W-Electric,Kerala,Kochi,2023-02-14,94.6,7.2,5.0
+VH-00162,3W-Electric,Madhya Pradesh,Jabalpur,2023-06-11,47.9,8.1,3.0
+VH-00409,4W-Electric,Punjab,Ludhiana,2022-05-09,48.0,40.3,7.0
+VH-00630,E-Bus,West Bengal,Asansol,2022-01-16,62.1,192.3,7.0
+VH-00911,4W-Electric,Rajasthan,Jodhpur,2024-11-11,71.7,44.7,2.0
+VH-00326,E-Cargo,Rajasthan,Ajmer,2021-06-23,79.9,60.8,2.0
+VH-00810,E-Cargo,Madhya Pradesh,Bhopal,2024-04-15,76.5,60.2,4.0
+VH-01150,3W-Electric,Delhi,Noida,2021-06-21,26.7,6.2,4.0
+VH-00672,4W-Electric,Tamil Nadu,Madurai,2022-12-04,41.0,36.4,5.0
+VH-00972,3W-Electric,West Bengal,Asansol,2024-11-10,55.7,8.5,5.0
+VH-00647,2W-Electric,Tamil Nadu,Madurai,2023-03-22,68.6,2.6,4.0
+VH-00668,E-Bus,Kerala,Thiruvananthapuram,2023-02-06,63.0,177.0,5.0
+VH-00140,E-Cargo,West Bengal,Siliguri,2022-03-28,22.8,65.2,5.0
+VH-00774,E-Cargo,Karnataka,Mysuru,2021-01-06,56.8,50.0,
+VH-00698,E-Cargo,Gujarat,Rajkot,2023-11-02,93.9,65.5,7.0
+VH-00573,E-Cargo,Delhi,New Delhi,2024-04-26,76.8,49.7,7.0
+VH-00353,4W-Electric,Uttar Pradesh,Allahabad,2022-07-17,80.4,37.5,6.0
+VH-01157,E-Bus,Kerala,Kozhikode,2022-02-22,80.5,170.9,5.0
+VH-00166,3W-Electric,Delhi,Noida,2023-08-10,40.8,8.4,6.0
+VH-00215,4W-Electric,Uttar Pradesh,Lucknow,2022-06-01,53.5,46.9,4.0
+VH-00756,2W-Electric,Kerala,Kochi,2022-06-21,32.6,2.2,3.0
+VH-00298,2W-Electric,Gujarat,Gandhinagar,2024-09-11,48.9,2.6,6.0
+VH-00395,3W-Electric,Delhi,Noida,2024-12-15,74.4,8.3,5.0
+VH-00132,E-Bus,Gujarat,Vadodara,2021-06-08,91.9,211.0,7.0
+VH-00315,2W-Electric,Delhi,Rohini,2024-03-29,49.6,2.4,6.0
+VH-00139,4W-Electric,Maharashtra,Thane,2023-03-10,61.4,34.5,5.0
+VH-00885,4W-Electric,Tamil Nadu,Tiruchirappalli,2022-10-17,53.3,40.7,7.0
+VH-00342,2W-Electric,Haryana,Panipat,2023-06-14,66.8,2.9,2.0
+VH-00417,4W-Electric,Maharashtra,Nashik,2023-01-02,67.2,32.5,2.0
+VH-00795,4W-Electric,Gujarat,Vadodara,2022-10-08,59.2,33.9,5.0
+VH-00039,3W-Electric,Gujarat,Ahmedabad,2024-03-07,84.9,8.3,2.0
+VH-00250,E-Cargo,Kerala,Thrissur,2024-10-31,64.8,56.3,3.0
+VH-00712,E-Cargo,Punjab,Ludhiana,2022-12-20,66.6,65.0,6.0
+VH-00054,2W-Electric,Telangana,Nizamabad,2024-10-11,47.6,2.4,7.0
+VH-00137,E-Bus,Maharashtra,Nashik,2023-03-09,39.6,162.0,6.0
+VH-00930,4W-Electric,Haryana,Faridabad,2024-12-31,81.1,37.7,3.0
+VH-00947,3W-Electric,Punjab,Ludhiana,2024-06-12,69.5,8.6,5.0
+VH-00036,3W-Electric,Kerala,Thiruvananthapuram,2023-02-05,37.0,7.9,3.0
+VH-00769,4W-Electric,Rajasthan,Kota,2023-12-09,60.5,42.5,2.0
+VH-00658,4W-Electric,Delhi,Dwarka,2024-09-10,23.3,34.0,3.0
+VH-00379,3W-Electric,Kerala,Thrissur,2021-11-29,57.0,6.7,3.0
+VH-00924,4W-Electric,Delhi,Faridabad,2022-07-22,59.5,46.2,4.0
+VH-00579,2W-Electric,Punjab,Jalandhar,2024-02-26,22.3,2.5,5.0
+VH-01099,4W-Electric,Madhya Pradesh,Jabalpur,2023-01-07,68.9,44.1,3.0
+VH-00738,3W-Electric,Uttar Pradesh,Lucknow,2023-02-24,29.4,8.0,2.0
+VH-00750,E-Bus,West Bengal,Howrah,2022-08-29,31.6,193.1,7.0
+VH-00053,E-Bus,Karnataka,Shivamogga,2022-12-27,49.9,185.4,5.0
+VH-00378,4W-Electric,West Bengal,Kolkata,2024-06-19,55.6,35.6,3.0
+VH-01128,E-Bus,Andhra Pradesh,Visakhapatnam,2024-10-14,72.8,199.7,5.0
+VH-00848,E-Bus,Kerala,Kochi,2021-10-16,16.3,207.0,4.0
+VH-00303,E-Cargo,Delhi,Gurugram,2024-01-29,43.0,49.5,7.0
+VH-00247,4W-Electric,Delhi,Rohini,2023-06-02,52.5,42.1,3.0
+VH-01175,4W-Electric,Delhi,Noida,2024-10-03,50.2,34.0,5.0
+VH-00426,E-Cargo,Andhra Pradesh,Guntur,2023-06-10,73.6,62.2,4.0
+VH-01053,E-Bus,Haryana,Panipat,2024-03-18,24.2,208.2,6.0
+VH-00029,E-Bus,Tamil Nadu,Vellore,2024-05-06,66.6,171.3,2.0
+VH-00874,E-Bus,Maharashtra,Aurangabad,2023-08-11,42.9,180.8,4.0
+VH-00914,3W-Electric,Gujarat,Bhavnagar,2022-07-06,44.7,8.7,7.0
+VH-00245,E-Bus,Punjab,Ludhiana,2021-12-07,54.9,196.7,7.0
+VH-00104,E-Cargo,Maharashtra,Pune,2023-06-09,74.5,48.6,4.0
+VH-00277,2W-Electric,Madhya Pradesh,Jabalpur,2021-10-14,46.2,2.6,2.0
+VH-00394,3W-Electric,Haryana,Panipat,2021-10-09,44.1,8.8,2.0
+VH-00111,4W-Electric,Madhya Pradesh,Jabalpur,2023-04-05,67.6,47.0,7.0
+VH-00791,E-Bus,Gujarat,Gandhinagar,2024-12-06,43.1,234.2,4.0
+VH-00160,4W-Electric,Karnataka,Belagavi,2021-01-26,59.2,37.1,5.0
+VH-00113,3W-Electric,Madhya Pradesh,Jabalpur,2024-06-14,521.516080442714,7.8,6.0
+VH-00794,E-Bus,Kerala,Kochi,2024-09-18,58.0,,3.0
+VH-00661,E-Cargo,West Bengal,Asansol,2021-03-17,58.2,65.0,4.0
+VH-00900,E-Cargo,Andhra Pradesh,Tirupati,2024-08-15,40.3,69.8,2.0
+VH-00771,E-Cargo,Uttar Pradesh,Varanasi,2023-01-08,31.2,49.6,2.0
+VH-00330,2W-Electric,Gujarat,Gandhinagar,2022-12-08,63.0,2.9,5.0
+VH-00263,2W-Electric,Punjab,Amritsar,2024-07-09,42.5,2.6,7.0
+VH-00736,2W-Electric,West Bengal,Asansol,2021-01-17,60.9,2.1,7.0
+VH-00134,3W-Electric,West Bengal,Kolkata,2021-11-05,63.8,7.0,3.0
+VH-00638,E-Cargo,Karnataka,Hubli,2021-07-10,48.9,57.0,6.0
+VH-00686,E-Cargo,Haryana,Ambala,2024-08-01,77.1,71.8,4.0
+VH-00984,E-Bus,Delhi,Noida,2023-05-14,6.9,212.2,7.0
+VH-00168,3W-Electric,Haryana,Panipat,2023-09-26,30.6,8.3,3.0
+VH-01109,4W-Electric,Punjab,Patiala,2021-10-02,84.1,33.2,5.0
+VH-00155,2W-Electric,Karnataka,Belagavi,2022-10-01,17.1,2.9,6.0
+VH-00051,E-Cargo,Tamil Nadu,Vellore,2024-03-26,82.4,67.3,5.0
+VH-00025,E-Cargo,Gujarat,Bhavnagar,2024-01-09,34.8,50.1,4.0
+VH-01121,2W-Electric,Rajasthan,Ajmer,2023-11-25,98.7,2.5,4.0
+VH-00444,2W-Electric,Punjab,Jalandhar,2023-01-10,16.4,2.8,6.0
+VH-00997,3W-Electric,Maharashtra,Mumbai,2023-11-02,37.3,6.3,5.0
+VH-00151,E-Cargo,Gujarat,Ahmedabad,2021-11-09,56.2,57.0,3.0
+VH-00554,4W-Electric,Maharashtra,Solapur,2024-12-05,40.4,34.1,2.0
+VH-00095,3W-Electric,Haryana,Faridabad,2023-04-25,70.4,7.0,2.0
+VH-01074,E-Bus,Telangana,Nizamabad,2023-06-06,60.6,223.5,4.0
+VH-00218,4W-Electric,Gujarat,Gandhinagar,2024-06-29,33.1,38.1,5.0
+VH-00646,3W-Electric,Kerala,Kollam,2023-07-27,18.5,7.6,2.0
+VH-00382,E-Bus,Delhi,Faridabad,2022-04-25,50.4,179.5,6.0
+VH-00024,3W-Electric,Telangana,Nizamabad,2022-06-27,72.6,8.8,3.0
+VH-00293,4W-Electric,Tamil Nadu,Chennai,2022-05-03,95.9,46.9,6.0
+VH-00713,E-Cargo,Delhi,Gurugram,2021-12-11,33.6,48.9,4.0
+VH-00174,3W-Electric,Gujarat,Rajkot,2022-09-20,72.1,6.0,7.0
+VH-00101,4W-Electric,Delhi,New Delhi,2022-12-21,109.7,44.7,7.0
+VH-00026,E-Bus,Andhra Pradesh,Kurnool,2024-04-10,23.3,181.7,5.0
+VH-01010,E-Bus,Madhya Pradesh,Gwalior,2021-08-22,10.8,189.5,2.0
+VH-00340,4W-Electric,Telangana,Nizamabad,2021-08-24,107.9,41.8,5.0
+VH-00820,3W-Electric,Punjab,Patiala,2024-07-15,83.9,6.6,6.0
+VH-01187,E-Bus,Delhi,New Delhi,2024-07-21,65.7,164.6,3.0
+VH-00490,E-Cargo,Haryana,Yamunanagar,2023-10-01,69.3,68.1,7.0
+VH-00830,4W-Electric,Rajasthan,Bikaner,2024-04-26,43.5,33.5,2.0
+VH-00735,3W-Electric,Uttar Pradesh,Lucknow,2024-04-30,-2.8,6.9,3.0
+VH-00901,3W-Electric,Gujarat,Rajkot,2023-04-14,35.5,7.6,7.0
+VH-00701,3W-Electric,Kerala,Kochi,2022-08-22,35.2,6.5,2.0
+VH-00355,2W-Electric,Uttar Pradesh,Varanasi,2021-04-27,32.5,2.2,4.0
+VH-00817,4W-Electric,Maharashtra,Nashik,2023-10-19,80.8,33.6,5.0
+VH-00751,E-Bus,Maharashtra,Nashik,2023-03-02,72.6,226.2,2.0
+VH-01073,3W-Electric,Karnataka,Belagavi,2022-06-14,47.8,6.4,5.0
+VH-00589,4W-Electric,West Bengal,Durgapur,2023-02-19,31.9,37.7,5.0
+VH-00243,3W-Electric,Kerala,Kochi,2024-07-16,54.7,6.4,
+VH-00169,4W-Electric,Rajasthan,Udaipur,2022-07-27,86.1,37.5,6.0
+VH-00074,4W-Electric,Tamil Nadu,Vellore,2023-07-26,73.5,35.0,4.0
+VH-00560,E-Cargo,Karnataka,Mysuru,2023-03-16,62.2,,6.0
+VH-01097,E-Bus,Rajasthan,Udaipur,2021-12-12,65.3,219.0,2.0
+VH-01186,2W-Electric,Uttar Pradesh,Meerut,2023-09-15,52.8,2.5,2.0
+VH-00119,4W-Electric,Madhya Pradesh,Ujjain,2021-07-11,83.7,40.2,3.0
+VH-00783,E-Cargo,Gujarat,Vadodara,2022-09-15,60.6,52.9,7.0
+VH-00115,E-Bus,Delhi,Dwarka,2024-04-02,35.8,215.8,
+VH-00521,E-Cargo,Maharashtra,Pune,2022-04-21,50.6,70.8,6.0
+VH-00975,E-Cargo,Tamil Nadu,Chennai,2021-06-03,68.1,69.1,
+VH-00006,E-Bus,Madhya Pradesh,Ujjain,2022-03-28,44.5,174.7,5.0
+VH-00476,E-Cargo,Delhi,Noida,2024-09-01,,51.1,7.0
+VH-00922,E-Cargo,West Bengal,Siliguri,2022-08-02,49.9,48.3,4.0
+VH-00825,2W-Electric,Punjab,Chandigarh,2023-08-25,38.7,2.3,6.0
+VH-00070,E-Cargo,Kerala,Thiruvananthapuram,2024-05-02,70.5,65.5,2.0
+VH-00015,2W-Electric,Haryana,Faridabad,2023-02-18,43.0,2.1,4.0
+VH-00284,2W-Electric,Gujarat,Vadodara,2024-11-05,42.5,2.2,4.0
+VH-00870,E-Bus,Delhi,New Delhi,2021-08-25,32.4,192.9,4.0
+VH-00370,3W-Electric,Andhra Pradesh,Tirupati,2024-05-03,1.8,7.3,7.0
+VH-00079,4W-Electric,Haryana,Yamunanagar,2024-06-06,67.4,43.1,7.0
+VH-01136,E-Bus,Kerala,Thrissur,2021-12-16,45.2,185.1,3.0
+VH-00860,E-Cargo,Andhra Pradesh,Visakhapatnam,2021-07-10,70.6,51.8,
+VH-00480,4W-Electric,West Bengal,Howrah,2024-02-08,29.9,36.2,4.0
+VH-00517,E-Bus,Telangana,Karimnagar,2021-07-25,30.4,194.1,7.0
+VH-01114,4W-Electric,Andhra Pradesh,Tirupati,2021-03-24,42.4,46.9,3.0
+VH-00653,E-Bus,Telangana,Karimnagar,2023-01-18,37.6,198.9,2.0
+VH-00055,2W-Electric,Madhya Pradesh,Bhopal,2023-04-05,1.9,2.8,7.0
+VH-00468,E-Bus,Rajasthan,Jodhpur,2021-09-08,51.6,237.5,4.0
+VH-00267,4W-Electric,Tamil Nadu,Tiruchirappalli,2023-12-24,35.6,40.2,6.0
+VH-01077,4W-Electric,Andhra Pradesh,Visakhapatnam,2023-10-27,60.1,39.7,2.0
+VH-01195,3W-Electric,Gujarat,Surat,2024-06-20,67.8,6.8,4.0
+VH-00584,E-Cargo,Madhya Pradesh,Ujjain,2021-03-22,41.3,69.8,2.0
+VH-00767,E-Cargo,Rajasthan,Ajmer,2022-06-15,53.2,54.1,3.0
+VH-00515,3W-Electric,Kerala,Thiruvananthapuram,2021-04-14,21.0,8.0,7.0
+VH-00538,4W-Electric,Karnataka,Mangaluru,2021-11-24,39.9,38.9,5.0
+VH-00729,2W-Electric,Uttar Pradesh,Varanasi,2023-05-27,104.3,2.1,3.0
+VH-00060,2W-Electric,West Bengal,Kolkata,2022-04-30,83.1,3.0,3.0
+VH-00504,4W-Electric,Rajasthan,Bikaner,2024-06-03,26.2,46.9,5.0
+VH-01110,2W-Electric,West Bengal,Siliguri,2023-03-24,55.1,2.7,4.0
+VH-00167,4W-Electric,Kerala,Thrissur,2021-02-28,19.2,47.8,5.0
+VH-00979,E-Bus,Punjab,Chandigarh,2021-08-26,97.1,231.4,2.0
+VH-01007,4W-Electric,Madhya Pradesh,Jabalpur,2023-01-15,57.9,,2.0
+VH-00332,2W-Electric,Madhya Pradesh,Gwalior,2022-03-28,46.1,2.1,5.0
+VH-01125,4W-Electric,Karnataka,Belagavi,2022-03-10,59.7,45.2,3.0
+VH-01023,E-Cargo,Madhya Pradesh,Ujjain,2022-10-22,15.8,61.9,6.0
+VH-00248,E-Bus,Gujarat,Gandhinagar,2024-03-05,53.5,170.3,7.0
+VH-00374,4W-Electric,Telangana,Khammam,2021-02-07,65.6,36.3,4.0
+VH-00888,E-Cargo,Uttar Pradesh,Lucknow,2024-04-18,95.2,57.9,6.0
+VH-00473,4W-Electric,Uttar Pradesh,Varanasi,2023-10-16,102.1,35.6,2.0
+VH-00500,E-Bus,Punjab,Patiala,2021-05-08,28.0,203.2,
+VH-00963,E-Bus,Karnataka,Mangaluru,2023-02-18,17.3,167.7,2.0
+VH-00854,E-Bus,Uttar Pradesh,Allahabad,2021-12-07,51.1,227.4,5.0
+VH-00637,E-Bus,West Bengal,Siliguri,2021-07-31,,191.1,2.0
+VH-00617,E-Cargo,Madhya Pradesh,Gwalior,2021-07-15,65.9,68.8,6.0
+VH-00564,3W-Electric,Tamil Nadu,Madurai,2021-08-20,74.0,8.5,2.0
+VH-00136,E-Cargo,Telangana,Karimnagar,2023-08-13,21.6,49.9,5.0
+VH-00308,2W-Electric,Telangana,Nizamabad,2022-10-03,56.8,2.2,5.0
+VH-00561,3W-Electric,Tamil Nadu,Vellore,2021-01-08,43.4,8.1,2.0
+VH-00845,3W-Electric,Andhra Pradesh,Guntur,2021-12-30,48.0,7.9,7.0
+VH-00721,4W-Electric,Andhra Pradesh,Guntur,2023-07-21,46.2,35.3,5.0
+VH-00567,2W-Electric,Uttar Pradesh,Meerut,2022-05-17,34.4,2.1,7.0
+VH-00502,E-Cargo,Madhya Pradesh,Jabalpur,2023-02-11,47.0,61.0,4.0
+VH-00981,4W-Electric,Madhya Pradesh,Indore,2023-01-03,34.7,41.5,5.0
+VH-00235,E-Bus,Rajasthan,Bikaner,2024-12-15,84.8,170.7,5.0
+VH-00627,4W-Electric,Haryana,Gurugram,2024-05-24,75.1,48.0,6.0
+VH-01021,3W-Electric,Uttar Pradesh,Meerut,2024-11-17,21.1,6.0,6.0
+VH-00431,E-Bus,Rajasthan,Udaipur,2024-03-07,45.9,215.4,2.0
+VH-01104,2W-Electric,Andhra Pradesh,Visakhapatnam,2021-02-08,,2.1,6.0
+VH-00884,E-Bus,Karnataka,Shivamogga,2022-02-18,58.0,216.6,7.0
+VH-00192,E-Bus,Telangana,Nizamabad,2022-09-01,82.2,166.7,6.0
+VH-00865,3W-Electric,Delhi,Rohini,2021-07-16,38.2,8.7,2.0
+VH-00152,2W-Electric,Tamil Nadu,Salem,2024-03-01,102.0,2.9,3.0
+VH-00692,E-Cargo,Andhra Pradesh,Vijayawada,2023-03-07,55.7,67.2,5.0
+VH-00436,E-Cargo,West Bengal,Asansol,2021-08-30,50.7,71.3,4.0
+VH-00837,3W-Electric,Maharashtra,Mumbai,2024-04-16,77.3,7.5,7.0
+VH-00667,E-Cargo,Andhra Pradesh,Kurnool,2024-04-03,49.3,,7.0
+VH-00257,E-Bus,Karnataka,Mysuru,2024-03-17,53.0,200.3,4.0
+VH-00279,3W-Electric,Gujarat,Gandhinagar,2023-03-07,82.9,6.9,5.0
+VH-01177,2W-Electric,Andhra Pradesh,Visakhapatnam,2024-01-31,74.6,2.0,4.0
+VH-00185,E-Cargo,Karnataka,Bengaluru,2022-08-06,67.3,51.4,5.0
+VH-00688,4W-Electric,Karnataka,Hubli,2023-07-27,44.3,41.3,6.0
+VH-00542,4W-Electric,Andhra Pradesh,Kurnool,2023-05-02,74.9,39.3,7.0
+VH-00639,E-Bus,Kerala,Kozhikode,2021-01-26,58.4,178.2,4.0
+VH-00570,E-Cargo,Gujarat,Bhavnagar,2022-10-16,53.1,65.3,6.0
+VH-00583,2W-Electric,Andhra Pradesh,Vijayawada,2022-07-04,63.0,2.7,5.0
+VH-00384,E-Bus,Madhya Pradesh,Ujjain,2023-08-04,60.1,191.8,4.0
+VH-00146,4W-Electric,Delhi,Noida,2022-03-10,92.4,33.6,5.0
+VH-00337,4W-Electric,West Bengal,Siliguri,2021-05-28,58.4,34.9,5.0
+VH-01143,E-Bus,Karnataka,Mysuru,2024-06-13,33.9,,6.0
+VH-00534,2W-Electric,Rajasthan,Jodhpur,2022-06-19,61.5,2.0,5.0
+VH-00216,E-Cargo,Karnataka,Mangaluru,2021-01-03,49.4,67.5,7.0
+VH-01057,3W-Electric,Rajasthan,Jodhpur,2024-09-20,50.6,8.3,4.0
+VH-00315,2W-Electric,Delhi,Rohini,2024-03-29,49.6,2.4,6.0
+VH-00799,E-Bus,Uttar Pradesh,Agra,2021-09-05,71.8,233.5,6.0
+VH-00986,3W-Electric,Andhra Pradesh,Visakhapatnam,2021-08-01,,7.5,5.0
+VH-00743,3W-Electric,Gujarat,Bhavnagar,2023-04-24,61.0,6.9,6.0
+VH-00197,E-Cargo,Telangana,Nizamabad,2023-08-21,80.4,49.4,4.0
+VH-00191,E-Cargo,Kerala,Kollam,2022-04-08,41.7,71.7,6.0
+VH-00779,E-Cargo,Rajasthan,Jaipur,2024-10-10,,52.2,2.0
+VH-00496,E-Bus,West Bengal,Siliguri,2021-10-30,63.0,200.6,7.0
+VH-00592,3W-Electric,Uttar Pradesh,Agra,2023-01-30,30.1,7.0,4.0
+VH-00018,E-Cargo,Madhya Pradesh,Bhopal,2024-07-24,51.8,59.9,3.0
+VH-00714,4W-Electric,Andhra Pradesh,Guntur,2024-03-18,37.2,37.8,4.0
+VH-00381,3W-Electric,Telangana,Karimnagar,2023-06-29,48.0,8.0,6.0
+VH-00028,2W-Electric,Karnataka,Bengaluru,2021-11-10,37.4,2.5,7.0
+VH-00278,E-Bus,Maharashtra,Aurangabad,2021-08-26,86.6,170.2,2.0
+VH-00790,4W-Electric,Tamil Nadu,Vellore,2021-07-10,62.2,37.4,2.0
+VH-00632,2W-Electric,Punjab,Amritsar,2021-06-18,66.4,2.8,4.0
+VH-00396,2W-Electric,Uttar Pradesh,Meerut,2021-06-12,,2.8,2.0
+VH-00867,2W-Electric,Maharashtra,Thane,2023-05-26,44.5,2.4,2.0
+VH-00229,4W-Electric,Punjab,Patiala,2021-01-06,38.4,41.9,4.0
+VH-00863,4W-Electric,Maharashtra,Pune,2022-02-25,35.5,47.3,3.0
+VH-00321,4W-Electric,Andhra Pradesh,Guntur,2022-12-20,72.8,38.1,2.0
+VH-00682,2W-Electric,Telangana,Nizamabad,2024-12-14,21.3,2.5,3.0
+VH-00148,E-Bus,Delhi,New Delhi,2021-02-09,52.9,194.7,7.0
+VH-00798,2W-Electric,Karnataka,Mysuru,2021-12-03,60.3,2.8,5.0
+VH-00727,2W-Electric,Madhya Pradesh,Bhopal,2021-07-23,56.0,2.3,7.0
+VH-01024,E-Cargo,Telangana,Nizamabad,2024-11-19,69.7,65.5,3.0
+VH-00239,3W-Electric,Tamil Nadu,Salem,2021-06-03,59.0,8.7,5.0
+VH-00495,E-Cargo,Andhra Pradesh,Visakhapatnam,2023-09-11,63.4,51.9,3.0
+VH-00599,3W-Electric,Punjab,Chandigarh,2021-10-14,71.9,6.5,7.0
+VH-00896,2W-Electric,Andhra Pradesh,Vijayawada,2023-09-01,56.9,2.9,4.0
+VH-00450,3W-Electric,West Bengal,Durgapur,2024-02-04,41.3,7.2,7.0
+VH-01078,4W-Electric,Delhi,Faridabad,2024-05-27,75.9,,2.0
+VH-01013,2W-Electric,Andhra Pradesh,Visakhapatnam,2021-12-03,65.2,2.1,5.0
+VH-00107,2W-Electric,Maharashtra,Solapur,2023-12-01,46.0,3.0,6.0
+VH-00351,E-Cargo,Madhya Pradesh,Ujjain,2022-10-24,,56.0,7.0
+VH-00524,2W-Electric,Haryana,Panipat,2021-01-19,88.2,2.3,4.0
+VH-00651,4W-Electric,Tamil Nadu,Salem,2022-08-20,51.2,33.0,7.0
+VH-00390,2W-Electric,Tamil Nadu,Salem,2022-03-31,38.7,2.4,5.0
+VH-00449,E-Bus,Madhya Pradesh,Bhopal,2023-08-13,79.5,239.8,7.0
+VH-00094,E-Cargo,Haryana,Ambala,2021-11-13,35.9,53.7,3.0
+VH-00260,E-Cargo,Punjab,Ludhiana,2023-10-15,42.6,66.0,4.0
+VH-00555,2W-Electric,West Bengal,Kolkata,2023-08-25,74.8,2.6,2.0
+VH-00676,4W-Electric,Karnataka,Bengaluru,2024-08-20,30.2,34.7,2.0
+VH-01145,E-Cargo,Tamil Nadu,Tiruchirappalli,2021-01-03,46.2,66.8,7.0
+VH-00171,3W-Electric,Gujarat,Ahmedabad,2023-04-13,55.2,6.3,5.0
+VH-00255,E-Bus,Delhi,Faridabad,2024-11-14,26.3,169.7,4.0
+VH-00732,3W-Electric,Rajasthan,Bikaner,2021-04-17,56.3,6.4,5.0
+VH-00960,E-Bus,Madhya Pradesh,Bhopal,2024-08-04,44.5,182.5,4.0
+VH-00603,3W-Electric,Gujarat,Ahmedabad,2021-01-19,48.5,6.6,3.0
+VH-00253,4W-Electric,Maharashtra,Kolhapur,2024-10-19,38.7,35.1,6.0
+VH-00307,E-Bus,Uttar Pradesh,Kanpur,2022-11-26,58.4,187.9,5.0
+VH-00548,E-Bus,Haryana,Yamunanagar,2021-08-27,43.6,168.4,7.0
+VH-00416,E-Cargo,West Bengal,Asansol,2023-08-28,58.6,53.2,4.0
+VH-01182,4W-Electric,Karnataka,Belagavi,2022-11-28,68.5,39.3,2.0
+VH-01027,4W-Electric,Andhra Pradesh,Kurnool,2024-12-07,36.1,42.8,6.0
+VH-00429,E-Cargo,Maharashtra,Nagpur,2024-10-20,71.3,69.0,5.0
+VH-00187,2W-Electric,Delhi,Noida,2021-05-14,46.3,2.1,5.0
+VH-00852,2W-Electric,Gujarat,Surat,2022-12-19,70.4,2.5,4.0
+VH-00816,4W-Electric,Tamil Nadu,Madurai,2023-07-03,36.5,47.9,3.0
+VH-00909,E-Bus,Gujarat,Vadodara,2024-05-01,30.6,233.2,5.0
+VH-00989,E-Bus,Maharashtra,Nagpur,2023-09-27,,197.8,2.0
+VH-00270,E-Bus,Tamil Nadu,Coimbatore,2024-02-16,36.9,190.2,4.0
+VH-00868,E-Cargo,Delhi,Faridabad,2023-09-11,,49.5,3.0
+VH-00969,E-Bus,Punjab,Ludhiana,2022-02-11,69.7,231.4,6.0
+VH-00700,E-Bus,Haryana,Ambala,2021-12-09,41.4,236.6,2.0
+VH-00631,2W-Electric,Kerala,Thrissur,2024-06-20,75.9,2.3,4.0
+VH-00163,4W-Electric,Andhra Pradesh,Kurnool,2024-06-15,62.2,42.1,6.0
+VH-00414,2W-Electric,Punjab,Jalandhar,2022-08-24,19.9,2.5,3.0
+VH-01165,3W-Electric,Maharashtra,Pune,2023-08-24,24.5,6.0,6.0
+VH-00096,4W-Electric,Tamil Nadu,Vellore,2023-04-24,80.4,45.6,7.0
+VH-00099,4W-Electric,Gujarat,Rajkot,2022-09-18,72.6,36.2,3.0
+VH-00007,2W-Electric,Kerala,Kozhikode,2021-11-23,2.7,2.3,7.0
+VH-00877,E-Bus,Punjab,Patiala,2024-04-22,56.6,197.1,3.0
+VH-00818,2W-Electric,West Bengal,Asansol,2021-06-29,46.5,2.2,4.0
+VH-00823,E-Bus,West Bengal,Durgapur,2022-07-08,26.0,220.9,3.0
+VH-00208,E-Cargo,Karnataka,Mysuru,2024-04-17,74.5,62.9,2.0
+VH-00804,E-Bus,Gujarat,Vadodara,2023-11-18,55.6,235.0,2.0
+VH-00687,E-Cargo,Kerala,Thrissur,2023-03-15,61.1,51.1,6.0
+VH-00873,4W-Electric,Rajasthan,Kota,2022-01-18,,47.0,5.0
+VH-00246,2W-Electric,Delhi,New Delhi,2022-10-27,63.1,2.3,2.0
+VH-00612,E-Bus,Rajasthan,Kota,2024-03-03,113.8,213.3,3.0
+VH-00230,E-Cargo,Andhra Pradesh,Guntur,2024-04-02,48.9,64.1,7.0
+VH-00265,3W-Electric,Rajasthan,Bikaner,2021-07-04,72.0,6.1,4.0
+VH-00907,4W-Electric,Andhra Pradesh,Vijayawada,2023-01-25,78.8,41.2,5.0
+VH-00369,4W-Electric,Kerala,Thiruvananthapuram,2022-09-28,82.8,44.4,7.0
+VH-01142,E-Bus,Haryana,Yamunanagar,2021-11-03,38.7,213.3,6.0
+VH-00897,4W-Electric,Rajasthan,Jaipur,2022-09-13,47.8,46.1,4.0
+VH-01126,4W-Electric,Tamil Nadu,Coimbatore,2024-05-17,82.4,40.3,7.0
+VH-00202,3W-Electric,Tamil Nadu,Madurai,2021-05-27,74.7,9.0,2.0
+VH-00730,4W-Electric,Andhra Pradesh,Vijayawada,2021-11-22,49.0,44.2,4.0
+VH-01152,E-Cargo,Maharashtra,Mumbai,2023-12-07,48.6,68.4,2.0
+VH-00800,E-Bus,Rajasthan,Jodhpur,2022-09-24,38.7,196.8,
+VH-00866,E-Cargo,Telangana,Khammam,2023-10-03,36.5,66.2,3.0
+VH-00404,E-Cargo,Rajasthan,Jodhpur,2023-05-04,65.5,48.3,3.0
+VH-01032,2W-Electric,Rajasthan,Bikaner,2022-12-23,41.1,2.6,6.0
+VH-01015,3W-Electric,Kerala,Thiruvananthapuram,2021-09-05,78.5,8.0,5.0
+VH-00611,4W-Electric,Delhi,Rohini,2023-03-24,,39.3,2.0
+VH-00190,2W-Electric,Karnataka,Mysuru,2024-02-17,45.5,2.9,5.0
+VH-00887,4W-Electric,Telangana,Khammam,2022-07-20,46.0,34.7,6.0
+VH-00333,2W-Electric,Kerala,Kochi,2022-02-23,74.3,2.2,4.0
+VH-00304,E-Cargo,Rajasthan,Kota,2023-12-23,70.2,64.4,4.0
+VH-00261,E-Cargo,Punjab,Amritsar,2022-12-23,44.1,52.4,3.0
+VH-00145,E-Bus,Telangana,Warangal,2022-01-08,50.3,161.2,2.0
+VH-00829,3W-Electric,Rajasthan,Jodhpur,2022-04-30,78.3,8.1,6.0
+VH-00628,4W-Electric,Kerala,Thrissur,2021-03-02,50.0,44.5,7.0
+VH-00699,E-Bus,Uttar Pradesh,Varanasi,2023-05-02,56.9,197.2,7.0
+VH-00284,2W-Electric,Gujarat,Vadodara,2024-11-05,42.5,2.2,4.0
+VH-00920,E-Cargo,Madhya Pradesh,Ujjain,2023-03-25,54.1,64.0,6.0
+VH-01118,4W-Electric,Maharashtra,Mumbai,2021-07-31,55.5,41.7,7.0
+VH-00938,E-Bus,Haryana,Gurugram,2021-04-20,79.5,238.3,7.0
+VH-00012,E-Cargo,Telangana,Hyderabad,2022-08-24,67.0,60.3,7.0
+VH-00009,2W-Electric,Punjab,Chandigarh,2021-07-09,46.4,2.6,5.0
+VH-00891,2W-Electric,Karnataka,Belagavi,2022-08-09,42.1,2.8,6.0
+VH-00595,4W-Electric,Kerala,Thrissur,2021-11-09,13.1,34.7,3.0
+VH-00694,E-Cargo,Tamil Nadu,Salem,2024-11-21,57.2,63.6,7.0
+VH-00532,E-Cargo,Telangana,Nizamabad,2022-11-03,69.5,68.3,2.0
+VH-00895,2W-Electric,Kerala,Thrissur,2023-03-22,26.1,2.8,4.0
+VH-01181,E-Cargo,Tamil Nadu,Salem,2021-08-07,68.4,68.3,6.0
+VH-00470,E-Cargo,Delhi,Noida,2023-05-07,31.5,66.2,3.0
+VH-00128,E-Cargo,Rajasthan,Kota,2023-10-31,48.3,60.5,5.0
+VH-00737,E-Bus,Rajasthan,Jaipur,2024-11-22,65.8,211.3,3.0
+VH-01036,3W-Electric,Maharashtra,Mumbai,2022-07-01,30.7,6.4,3.0
+VH-00058,3W-Electric,Delhi,Noida,2021-06-04,51.7,7.0,5.0
+VH-00956,3W-Electric,Rajasthan,Kota,2022-12-03,63.4,8.6,5.0
+VH-01063,4W-Electric,Delhi,Gurugram,2021-02-20,50.9,39.1,6.0
+VH-00034,4W-Electric,Uttar Pradesh,Lucknow,2023-10-23,77.0,33.0,3.0
+VH-00238,E-Bus,Karnataka,Belagavi,2021-02-01,83.9,195.0,7.0
+VH-01166,2W-Electric,Telangana,Hyderabad,2022-06-23,32.3,2.0,3.0
+VH-00283,3W-Electric,Maharashtra,Thane,2023-06-28,45.8,6.3,5.0
+VH-00587,2W-Electric,Gujarat,Bhavnagar,2023-09-08,51.9,2.2,3.0
+VH-00935,2W-Electric,Rajasthan,Bikaner,2022-04-01,70.3,2.5,4.0
+VH-00363,E-Cargo,Uttar Pradesh,Meerut,2024-06-02,41.4,60.1,3.0
+VH-00244,2W-Electric,Delhi,Dwarka,2023-06-08,70.9,2.3,2.0
+VH-00604,4W-Electric,West Bengal,Asansol,2021-05-04,44.0,32.9,6.0
+VH-00093,2W-Electric,Gujarat,Bhavnagar,2022-12-26,69.7,2.7,6.0
+VH-00211,E-Bus,Kerala,Thrissur,2021-07-06,16.7,206.7,5.0
+VH-00338,E-Bus,Haryana,Gurugram,2021-02-08,71.7,,5.0
+VH-01031,E-Cargo,Tamil Nadu,Tiruchirappalli,2024-11-22,18.6,70.0,7.0
+VH-00792,2W-Electric,Uttar Pradesh,Allahabad,2024-04-04,29.4,2.4,2.0
+VH-00669,E-Cargo,Uttar Pradesh,Allahabad,2024-11-15,78.0,62.7,6.0
+VH-00302,3W-Electric,Rajasthan,Ajmer,2021-05-15,46.9,6.4,3.0
+VH-00948,E-Bus,Madhya Pradesh,Jabalpur,2023-05-29,68.3,213.2,5.0
+VH-01087,3W-Electric,Madhya Pradesh,Ujjain,2021-11-26,52.3,6.2,3.0
+VH-00086,2W-Electric,Haryana,Panipat,2021-01-08,78.8,2.3,4.0
+VH-00191,E-Cargo,Kerala,Kollam,2022-04-08,41.7,71.7,6.0
+VH-00040,E-Bus,Karnataka,Shivamogga,2021-05-22,61.8,199.5,6.0
+VH-00501,3W-Electric,Tamil Nadu,Tiruchirappalli,2024-02-23,60.3,8.3,4.0
+VH-00624,4W-Electric,Madhya Pradesh,Ujjain,2023-02-26,68.4,42.5,7.0
+VH-00976,4W-Electric,Andhra Pradesh,Visakhapatnam,2024-08-12,108.8,38.9,3.0
+VH-00635,4W-Electric,Uttar Pradesh,Agra,2021-07-29,29.4,40.7,3.0
+VH-00765,3W-Electric,Maharashtra,Aurangabad,2021-09-02,77.8,8.4,2.0
+VH-00724,E-Bus,Telangana,Warangal,2022-03-10,67.0,184.4,5.0
+VH-00064,E-Bus,Andhra Pradesh,Kurnool,2021-11-14,46.3,200.2,3.0
+VH-00234,3W-Electric,Kerala,Thrissur,2023-04-22,58.3,,2.0
+VH-00677,3W-Electric,Madhya Pradesh,Indore,2023-11-23,47.9,8.2,3.0
+VH-00106,E-Cargo,Karnataka,Mangaluru,2022-01-25,69.8,71.2,4.0
+VH-00754,E-Bus,Haryana,Yamunanagar,2023-01-19,54.7,180.8,6.0
+VH-00903,2W-Electric,Punjab,Amritsar,2022-09-30,81.2,2.8,7.0
+VH-00254,E-Bus,Tamil Nadu,Chennai,2022-12-09,43.8,167.1,6.0
+VH-00423,4W-Electric,Karnataka,Bengaluru,2024-09-15,23.8,43.0,4.0
+VH-00775,3W-Electric,Haryana,Gurugram,2021-04-05,39.0,8.1,5.0
+VH-00859,3W-Electric,Karnataka,Hubli,2023-02-08,73.0,7.3,3.0
+VH-00925,3W-Electric,Madhya Pradesh,Gwalior,2021-11-04,38.9,6.2,6.0
+VH-00080,E-Cargo,West Bengal,Kolkata,2022-09-06,51.8,51.3,7.0
+VH-00990,2W-Electric,Telangana,Nizamabad,2021-05-10,13.6,2.2,4.0
+VH-00498,E-Bus,Gujarat,Ahmedabad,2022-10-05,25.2,238.5,5.0
+VH-01164,3W-Electric,Madhya Pradesh,Bhopal,2023-03-08,57.4,8.5,
+VH-00088,E-Bus,Uttar Pradesh,Meerut,2024-02-23,79.3,166.7,2.0
+VH-00065,2W-Electric,Delhi,Dwarka,2024-04-01,64.6,2.1,7.0
+VH-00606,E-Cargo,Maharashtra,Mumbai,2024-02-04,34.3,70.4,5.0
+VH-00275,4W-Electric,Kerala,Kollam,2024-06-03,37.5,44.6,3.0
+VH-00637,E-Bus,West Bengal,Siliguri,2021-07-31,,191.1,2.0
+VH-01154,E-Bus,Andhra Pradesh,Guntur,2023-01-12,97.1,230.4,2.0
+VH-00154,2W-Electric,Kerala,Kollam,2021-12-02,56.2,2.6,4.0
+VH-00614,2W-Electric,Madhya Pradesh,Bhopal,2023-04-11,67.9,2.7,5.0
+VH-00411,E-Cargo,Maharashtra,Thane,2022-11-25,24.5,53.9,7.0
+VH-00831,E-Cargo,Andhra Pradesh,Guntur,2024-02-29,99.3,62.1,3.0
+VH-00913,3W-Electric,Haryana,Yamunanagar,2022-03-30,44.1,6.8,7.0
+VH-00518,2W-Electric,Punjab,Amritsar,2024-02-02,51.4,2.8,3.0
+VH-00045,E-Cargo,Rajasthan,Kota,2023-07-14,44.3,69.8,2.0
+VH-00391,E-Bus,Rajasthan,Jaipur,2021-04-20,70.1,207.2,5.0
+VH-00221,2W-Electric,Uttar Pradesh,Lucknow,2024-07-14,52.8,2.4,6.0
+VH-00141,E-Bus,Gujarat,Vadodara,2023-09-22,62.5,212.8,
+VH-00358,2W-Electric,Kerala,Kollam,2023-07-11,,2.4,6.0
+VH-00723,4W-Electric,Uttar Pradesh,Allahabad,2021-05-10,66.4,45.9,6.0
+VH-00262,E-Cargo,Madhya Pradesh,Indore,2022-05-29,30.4,59.6,7.0
+VH-00899,E-Bus,Delhi,Faridabad,2022-10-20,53.8,238.8,4.0
+VH-00196,2W-Electric,Tamil Nadu,Tiruchirappalli,2021-11-17,54.9,2.5,2.0
+VH-00116,E-Bus,Madhya Pradesh,Gwalior,2023-06-24,82.6,183.5,5.0
+VH-00719,E-Bus,Delhi,Faridabad,2023-02-08,60.0,233.6,5.0
+VH-01173,3W-Electric,Gujarat,Gandhinagar,2024-10-12,57.4,8.3,2.0
+VH-01079,E-Bus,Delhi,Noida,2023-03-21,67.8,182.9,7.0
+VH-00359,4W-Electric,Madhya Pradesh,Indore,2024-05-24,34.7,41.3,
+VH-01061,E-Cargo,Madhya Pradesh,Ujjain,2022-05-15,74.2,61.4,2.0
+VH-01020,E-Cargo,West Bengal,Kolkata,2023-06-06,40.1,51.4,6.0
+VH-01001,2W-Electric,Telangana,Warangal,2023-07-30,47.0,3.0,5.0
+VH-00936,4W-Electric,Gujarat,Bhavnagar,2023-05-12,80.1,41.9,4.0
+VH-00755,E-Bus,Madhya Pradesh,Indore,2021-05-30,57.2,220.8,2.0
+VH-00421,E-Bus,Delhi,New Delhi,2021-06-11,58.6,168.5,5.0
+VH-00150,2W-Electric,Karnataka,Shivamogga,2021-03-05,81.5,2.0,3.0
+VH-00010,4W-Electric,Karnataka,Hubli,2024-05-21,40.2,37.9,4.0
+VH-01070,2W-Electric,Andhra Pradesh,Tirupati,2024-11-06,59.8,3.0,3.0
+VH-01155,E-Cargo,Tamil Nadu,Salem,2022-06-04,74.4,53.2,4.0
+VH-00535,4W-Electric,Gujarat,Rajkot,2022-11-07,80.0,,4.0
+VH-00549,E-Cargo,Gujarat,Bhavnagar,2023-09-29,103.0,53.8,2.0
+VH-00299,2W-Electric,Delhi,Noida,2021-05-05,32.2,2.3,5.0
+VH-00977,4W-Electric,Uttar Pradesh,Agra,2023-08-09,84.5,37.1,2.0
+VH-00123,E-Bus,Kerala,Thiruvananthapuram,2023-10-10,58.3,190.0,5.0
+VH-00710,E-Cargo,Kerala,Kozhikode,2024-07-19,59.5,66.1,5.0
+VH-01098,3W-Electric,Rajasthan,Jodhpur,2024-12-29,69.3,6.4,7.0
+VH-00770,E-Cargo,Delhi,Faridabad,2024-07-09,,62.7,2.0
+VH-00089,3W-Electric,Karnataka,Bengaluru,2024-01-23,59.5,6.5,2.0
+VH-01033,E-Cargo,Uttar Pradesh,Meerut,2024-09-28,86.7,56.9,7.0
+VH-00098,2W-Electric,Karnataka,Mangaluru,2023-08-22,57.9,2.4,3.0
+VH-01189,2W-Electric,West Bengal,Siliguri,2024-12-06,41.8,,4.0
+VH-00349,2W-Electric,Tamil Nadu,Vellore,2021-12-29,76.4,2.1,7.0
+VH-00510,4W-Electric,Punjab,Amritsar,2021-03-28,57.6,45.9,4.0
+VH-00212,4W-Electric,Rajasthan,Kota,2022-10-20,62.2,45.0,7.0
+VH-00704,E-Cargo,West Bengal,Kolkata,2021-08-22,48.9,56.3,4.0
+VH-00747,3W-Electric,Madhya Pradesh,Bhopal,2024-02-08,34.1,7.6,6.0
+VH-01046,3W-Electric,Andhra Pradesh,Kurnool,2022-02-01,45.5,8.9,4.0
+VH-00940,2W-Electric,Gujarat,Gandhinagar,2024-10-26,,2.3,5.0
+VH-01163,E-Cargo,Punjab,Chandigarh,2024-06-11,20.1,50.7,
+VH-01034,4W-Electric,Telangana,Khammam,2023-05-16,70.6,43.0,2.0
+VH-01185,4W-Electric,Uttar Pradesh,Kanpur,2023-07-29,88.4,35.9,7.0
+VH-00479,E-Bus,Rajasthan,Jaipur,2021-04-15,20.0,167.0,6.0
+VH-00492,2W-Electric,Rajasthan,Bikaner,2023-05-04,85.6,2.8,6.0
+VH-00842,E-Cargo,Tamil Nadu,Vellore,2024-11-21,52.3,53.3,6.0
+VH-01071,4W-Electric,Maharashtra,Kolhapur,2021-03-19,60.3,46.6,2.0
+VH-00365,E-Cargo,Punjab,Chandigarh,2021-04-18,52.7,53.0,7.0
+VH-00297,2W-Electric,West Bengal,Siliguri,2023-07-15,45.8,2.5,6.0
+VH-00050,E-Bus,Delhi,Faridabad,2022-03-15,78.2,229.7,6.0
+VH-00225,4W-Electric,Delhi,Gurugram,2023-05-01,48.7,45.6,
+VH-00851,E-Bus,Madhya Pradesh,Gwalior,2021-01-24,44.4,161.9,4.0
+VH-00648,E-Bus,Haryana,Yamunanagar,2022-11-06,66.5,217.4,5.0
+VH-00563,3W-Electric,Telangana,Warangal,2023-08-02,57.3,6.2,4.0
+VH-00623,3W-Electric,Tamil Nadu,Tiruchirappalli,2024-03-06,33.5,8.1,5.0
+VH-00818,2W-Electric,West Bengal,Asansol,2021-06-29,46.5,2.2,4.0
+VH-01088,4W-Electric,Gujarat,Gandhinagar,2022-02-02,75.1,40.2,2.0
+VH-00805,4W-Electric,Madhya Pradesh,Gwalior,2021-12-23,53.1,32.7,2.0
+VH-00605,E-Bus,Madhya Pradesh,Ujjain,2024-09-12,52.4,202.5,5.0
+VH-00443,3W-Electric,Gujarat,Ahmedabad,2021-10-12,63.3,6.2,3.0
+VH-01137,E-Cargo,Haryana,Ambala,2021-10-20,51.8,66.9,6.0
+VH-01025,4W-Electric,Delhi,Noida,2022-08-26,64.4,42.4,5.0
+VH-00540,4W-Electric,Madhya Pradesh,Gwalior,2024-06-12,54.7,41.3,3.0
+VH-00768,4W-Electric,Rajasthan,Jodhpur,2021-08-30,73.4,42.2,2.0
+VH-00763,2W-Electric,Telangana,Warangal,2022-05-16,60.7,2.5,2.0
+VH-00869,3W-Electric,Karnataka,Bengaluru,2021-12-16,57.0,8.7,7.0
+VH-00690,3W-Electric,Karnataka,Shivamogga,2022-10-04,40.8,7.1,2.0
+VH-00188,E-Cargo,Uttar Pradesh,Lucknow,2024-07-13,59.1,67.7,7.0
+VH-00407,E-Bus,Maharashtra,Solapur,2021-03-31,51.8,174.0,7.0
+VH-01012,E-Cargo,Haryana,Panipat,2023-12-06,45.2,49.7,4.0
+VH-00752,E-Cargo,Gujarat,Rajkot,2021-05-26,70.2,48.3,6.0
+VH-01051,3W-Electric,Uttar Pradesh,Allahabad,2021-03-23,53.1,6.3,3.0
+VH-00462,4W-Electric,Delhi,Faridabad,2023-09-17,41.7,34.7,
+VH-00671,2W-Electric,Delhi,Noida,2021-08-26,69.9,,7.0
+VH-00656,4W-Electric,Gujarat,Rajkot,2024-11-19,62.9,41.8,2.0
+VH-00786,2W-Electric,Maharashtra,Solapur,2022-04-23,55.8,3.0,6.0
+VH-01084,2W-Electric,Tamil Nadu,Chennai,2021-01-11,48.3,2.8,6.0
+VH-00715,2W-Electric,Haryana,Yamunanagar,2021-10-05,,2.1,5.0
+VH-00425,4W-Electric,Andhra Pradesh,Tirupati,2023-07-05,33.2,,2.0
+VH-00044,E-Bus,Andhra Pradesh,Guntur,2024-10-07,75.8,200.7,7.0
+VH-00662,E-Cargo,Andhra Pradesh,Kurnool,2024-07-30,36.3,54.2,2.0
+VH-00636,E-Bus,Karnataka,Mysuru,2023-07-09,22.1,215.6,6.0
+VH-00529,4W-Electric,Uttar Pradesh,Allahabad,2022-01-17,65.1,45.8,2.0
+VH-00988,E-Bus,Tamil Nadu,Tiruchirappalli,2023-01-05,51.3,188.9,6.0
+VH-00219,2W-Electric,Madhya Pradesh,Jabalpur,2022-02-21,60.5,3.0,4.0
+VH-00821,E-Bus,Punjab,Ludhiana,2024-12-31,60.6,188.4,4.0
+VH-00538,4W-Electric,Karnataka,Mangaluru,2021-11-24,39.9,38.9,5.0
+VH-01171,4W-Electric,Haryana,Yamunanagar,2022-02-03,95.4,47.4,2.0
+VH-00856,E-Cargo,Karnataka,Mangaluru,2024-08-26,82.8,59.6,7.0
+VH-00610,3W-Electric,Tamil Nadu,Coimbatore,2024-06-23,64.1,8.6,6.0
+VH-00486,4W-Electric,Tamil Nadu,Vellore,2023-08-29,32.4,41.1,6.0
+VH-01018,E-Bus,Kerala,Kochi,2023-07-26,70.2,229.9,7.0
+VH-01086,4W-Electric,Delhi,Dwarka,2022-03-10,50.9,46.3,5.0
+VH-00082,3W-Electric,Andhra Pradesh,Kurnool,2022-07-12,66.1,8.0,4.0
+VH-00325,4W-Electric,Rajasthan,Jodhpur,2022-10-01,65.2,,7.0
+VH-01081,E-Bus,Tamil Nadu,Vellore,2024-01-23,109.3,200.9,
+VH-00020,E-Cargo,Delhi,Faridabad,2022-03-26,62.8,63.9,7.0
+VH-00455,E-Cargo,Delhi,Dwarka,2022-07-17,49.0,53.7,3.0
+VH-01111,3W-Electric,West Bengal,Kolkata,2024-06-11,,6.2,7.0
+VH-00839,E-Bus,Rajasthan,Bikaner,2024-04-15,-0.5,223.1,2.0
+VH-00759,E-Cargo,Telangana,Hyderabad,2024-01-07,31.1,58.9,6.0
+VH-00035,4W-Electric,West Bengal,Kolkata,2024-08-01,78.6,37.0,
+VH-00809,4W-Electric,Haryana,Ambala,2024-11-06,101.0,43.7,7.0
+VH-00905,3W-Electric,Maharashtra,Nagpur,2022-02-16,18.4,6.6,2.0
+VH-00801,2W-Electric,Delhi,New Delhi,2021-11-19,72.8,2.8,7.0
+VH-00097,4W-Electric,Haryana,Faridabad,2021-11-23,37.6,42.5,7.0
+VH-01108,4W-Electric,Punjab,Amritsar,2023-03-15,67.2,36.8,3.0
+VH-00447,E-Cargo,Andhra Pradesh,Tirupati,2023-04-22,69.3,53.6,5.0
+VH-00475,4W-Electric,Gujarat,Gandhinagar,2021-04-10,47.7,33.5,
+VH-00367,4W-Electric,West Bengal,Asansol,2022-06-01,106.4,32.6,7.0
+VH-01174,2W-Electric,Rajasthan,Jodhpur,2021-11-19,86.0,3.0,2.0
+VH-00761,3W-Electric,West Bengal,Howrah,2024-01-04,,8.2,4.0
+VH-00919,3W-Electric,Uttar Pradesh,Agra,2023-08-14,60.3,8.9,4.0
+VH-00760,2W-Electric,Tamil Nadu,Madurai,2022-09-27,54.2,2.3,2.0
+VH-00393,2W-Electric,Rajasthan,Jodhpur,2022-10-15,19.9,2.6,2.0
+VH-00507,4W-Electric,Andhra Pradesh,Tirupati,2023-09-10,47.7,,4.0
+VH-00435,2W-Electric,Gujarat,Ahmedabad,2022-01-17,516.662003748149,2.7,5.0
+VH-00649,E-Cargo,Rajasthan,Kota,2021-10-06,49.9,70.9,4.0
+VH-00943,4W-Electric,Uttar Pradesh,Kanpur,2022-01-05,82.5,36.5,2.0
+VH-01198,4W-Electric,Maharashtra,Kolhapur,2024-06-25,67.4,33.0,4.0
+VH-00133,4W-Electric,Delhi,Dwarka,2022-11-19,55.3,43.6,4.0
+VH-01075,2W-Electric,Maharashtra,Solapur,2024-01-01,52.5,2.3,2.0
+VH-00973,2W-Electric,Rajasthan,Jodhpur,2021-01-27,60.3,2.6,7.0
+VH-00451,3W-Electric,Kerala,Thiruvananthapuram,2023-06-06,73.4,7.4,
+VH-00032,E-Cargo,Karnataka,Shivamogga,2022-07-01,42.5,50.8,7.0
+VH-00122,E-Bus,Haryana,Gurugram,2023-04-29,58.5,187.0,7.0
+VH-01113,E-Cargo,Tamil Nadu,Tiruchirappalli,2024-09-12,72.5,53.6,3.0
+VH-00256,3W-Electric,Uttar Pradesh,Agra,2023-02-27,51.2,7.1,5.0
+VH-00893,E-Cargo,Uttar Pradesh,Meerut,2023-08-27,40.8,52.8,2.0
+VH-00360,2W-Electric,West Bengal,Howrah,2023-07-12,65.3,3.0,2.0
+VH-00052,E-Bus,Gujarat,Rajkot,2022-01-25,58.5,231.7,2.0
+VH-00876,2W-Electric,Punjab,Ludhiana,2024-09-30,66.3,2.6,4.0
+VH-00939,E-Cargo,Kerala,Kollam,2021-05-26,62.4,63.2,5.0
+VH-00773,E-Cargo,Delhi,New Delhi,2024-10-12,50.4,60.3,7.0
+VH-01127,3W-Electric,Haryana,Gurugram,2023-04-30,40.2,6.4,4.0
+VH-00680,E-Bus,Tamil Nadu,Vellore,2023-03-22,87.5,,2.0
+VH-00806,E-Cargo,Telangana,Nizamabad,2024-02-01,53.3,65.4,3.0
+VH-00125,E-Cargo,Gujarat,Surat,2023-08-10,19.2,59.2,2.0
+VH-00405,E-Cargo,Madhya Pradesh,Bhopal,2023-01-09,87.4,51.3,2.0
+VH-00731,4W-Electric,Karnataka,Shivamogga,2022-05-28,4.5,34.8,2.0
+VH-00832,E-Bus,Kerala,Thiruvananthapuram,2024-01-16,49.1,165.2,4.0
+VH-01072,3W-Electric,Karnataka,Bengaluru,2022-05-31,90.4,8.6,6.0
+VH-00726,E-Cargo,Kerala,Thiruvananthapuram,2023-09-21,47.9,64.7,4.0
+VH-00588,3W-Electric,Andhra Pradesh,Kurnool,2023-03-24,76.2,7.5,3.0
+VH-00608,E-Cargo,Delhi,New Delhi,2024-11-30,55.2,51.6,7.0
+VH-00434,4W-Electric,Rajasthan,Kota,2024-08-23,57.7,32.5,4.0
+VH-00675,4W-Electric,Rajasthan,Jaipur,2021-04-02,99.5,42.0,7.0
+VH-00361,2W-Electric,Punjab,Chandigarh,2023-10-31,39.0,2.1,7.0
+VH-01100,E-Bus,Madhya Pradesh,Gwalior,2023-08-06,78.6,221.3,5.0
+VH-00467,E-Cargo,Tamil Nadu,Madurai,2024-02-25,45.1,66.7,2.0
+VH-00300,E-Bus,Haryana,Ambala,2024-11-06,60.4,198.5,2.0
+VH-00494,E-Cargo,Delhi,Faridabad,2024-03-28,38.3,65.8,3.0
+VH-00528,4W-Electric,Punjab,Ludhiana,2021-11-29,50.4,37.9,7.0
+VH-01193,3W-Electric,Delhi,Dwarka,2023-10-19,29.0,8.4,7.0
