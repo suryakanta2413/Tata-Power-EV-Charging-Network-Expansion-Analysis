@@ -50,7 +50,9 @@ Expansion site ROI rankings and financial projections
 InitiativeInvestmentExpected Annual RevenuePaybackDecongest 66 overloaded stations₹1.2 Cr₹3.8 Cr4–5 months26 stations on 3 critical highways₹5.4 Cr₹6.2 Cr10–12 monthsFirst stations in 5 zero-infra cities₹0.8 Cr₹2.1 Cr5–6 monthsTop 5 high-ROI expansion sites₹1.8 Cr₹28.0 Cr<8 monthsTotal FY25 Plan~₹9.2 Cr~₹40.1 Cr~11 months avg
 
 📸 Dashboard Preview
-(Add your Power BI dashboard screenshot link here)
+https://github.com/suryakanta2413/Tata-Power-EV-Charging-Network-Expansion-Analysis/blob/main/EV%20Demand.png
+https://github.com/suryakanta2413/Tata-Power-EV-Charging-Network-Expansion-Analysis/blob/main/Charging%20Network.png
+https://github.com/suryakanta2413/Tata-Power-EV-Charging-Network-Expansion-Analysis/blob/main/ROI%20Analysis.png
 
 📂 Dataset
 
